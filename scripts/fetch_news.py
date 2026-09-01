@@ -6,8 +6,10 @@ from summarise_news import summarise
 
 FEEDS = [
     "https://rss.arxiv.org/rss/cs.AI",
+    "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://deepmind.google/blog/feed/basic/",
+    "https://huggingface.co/blog/feed.xml",
 ]
-
 NEWS_DIR = "docs/news"
 RETENTION_DAYS = 30
 
