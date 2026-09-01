@@ -35,4 +35,4 @@ jobs:
           git push
 
       - name: Deploy site
-        run: mkdocs gh-deploy --force
+        run: mkdocs gh-deploy --force"# trigger reindex" 
