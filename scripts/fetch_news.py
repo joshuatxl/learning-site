@@ -18,7 +18,7 @@ def slugify(title):
     return slug[:60]
 
 def already_saved(slug):
-    return any(slug in f for f in os.listdir(NEWS_DIR))
+    return any(f.endswith(f"-{slug}.md") for f in os.listdir(NEWS_DIR))
 
 def save_article(title, link, summary, date_str):
     slug = slugify(title)
@@ -77,7 +77,7 @@ def main():
     for feed_url in FEEDS:
         feed = feedparser.parse(feed_url)
         print(f"Feed status: {feed.get('status', 'unknown')}, entries found: {len(feed.entries)}")
-        for entry in feed.entries[:5]:
+        for entry in feed.entries[:5]: 
             slug = slugify(entry.title)
             if already_saved(slug):
                 continue
