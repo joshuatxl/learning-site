@@ -1,5 +1,18 @@
 # News
 
+- [OpenAI’s Astra model is on the way — and very good at breaking into computer systems](2026-09-02-openai-s-astra-model-is-on-the-way-and-very-good-at-breaking.md)
+- [Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls](2026-09-02-long-horizon-state-tracking-in-llms-executing-md5-through-a-.md)
+- [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](2026-09-02-introducing-huggingface-kernels-200-webgpu-kernels-for-local.md)
+- [Introducing agentic video understanding with Gemini](2026-09-02-introducing-agentic-video-understanding-with-gemini.md)
+- [Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models](2026-09-02-incremental-risk-assessment-of-progressive-elder-financial-s.md)
+- [I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models](2026-09-02-i-care-analysis-of-interference-related-phenomena-in-a-contr.md)
+- [HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models](2026-09-02-hyperworld-hypergraph-structured-state-serialization-improve.md)
+- [Google’s answer to Canva is an AI tool where you prompt instead of design](2026-09-02-google-s-answer-to-canva-is-an-ai-tool-where-you-prompt-inst.md)
+- [Google’s Android update tackles motion sickness, accessibility, and more](2026-09-02-google-s-android-update-tackles-motion-sickness-accessibilit.md)
+- [Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing](2026-09-02-discrete-time-mdp-modeling-for-multi-item-capacitated-lot-si.md)
+- [BenchMIRT: What are LLM benchmarks actually measuring?](2026-09-02-benchmirt-what-are-llm-benchmarks-actually-measuring.md)
+- [Anthropic’s new Fable release is cheaper, less restrictive](2026-09-02-anthropic-s-new-fable-release-is-cheaper-less-restrictive.md)
+- [AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B](2026-09-02-afterquery-reportedly-becomes-y-combinator-s-fastest-ever-un.md)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](2026-09-01-wire-it-run-it-deploy-it-ai-workflows-in-gradio.md)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](2026-09-01-training-and-finetuning-multi-vector-embedding-models-with-s.md)
 - [The Pentagon now has its own version of ChatGPT and Grok](2026-09-01-the-pentagon-now-has-its-own-version-of-chatgpt-and-grok.md)
