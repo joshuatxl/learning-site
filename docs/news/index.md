@@ -1,5 +1,15 @@
 # News
 
+- [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](2026-09-06-xdof-just-three-months-out-of-stealth-is-in-talks-for-a-seri.md)
+- [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](2026-09-06-seattle-times-and-newsday-are-the-latest-publications-to-sue.md)
+- [Proactive cyber defense for governments and enterprises](2026-09-06-proactive-cyber-defense-for-governments-and-enterprises.md)
+- [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](2026-09-06-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t.md)
+- [OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](2026-09-06-openai-confirms-wiki-incident-says-it-s-working-on-a-framewo.md)
+- [NeoMME: an efficient Multimodal-native and Multilingual Encoder](2026-09-06-neomme-an-efficient-multimodal-native-and-multilingual-encod.md)
+- [Introducing WeatherNext 3, our most advanced and accurate global weather AI model](2026-09-06-introducing-weathernext-3-our-most-advanced-and-accurate-glo.md)
+- [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](2026-09-06-introducing-gemini-3-8-flash-and-3-8-flash-cyber.md)
+- [Introducing agentic video understanding with Gemini](2026-09-06-introducing-agentic-video-understanding-with-gemini.md)
+- [Hikers rescued after using Google Gemini for planning](2026-09-06-hikers-rescued-after-using-google-gemini-for-planning.md)
 - [Wire It, Run It, Deploy It: AI Workflows in Gradio](2026-09-01-wire-it-run-it-deploy-it-ai-workflows-in-gradio.md)
 - [Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers](2026-09-01-training-and-finetuning-multi-vector-embedding-models-with-s.md)
 - [The Pentagon now has its own version of ChatGPT and Grok](2026-09-01-the-pentagon-now-has-its-own-version-of-chatgpt-and-grok.md)

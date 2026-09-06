@@ -12,6 +12,7 @@ FEEDS = [
 ]
 NEWS_DIR = "docs/news"
 RETENTION_DAYS = 30
+MAX_SUMMARIES_PER_RUN = 15  # stay under the ~20/day free-tier quota across all feeds combined
 
 def slugify(title):
     slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
@@ -74,14 +75,24 @@ def rebuild_index():
 
 def main():
     os.makedirs(NEWS_DIR, exist_ok=True)
+    summaries_this_run = 0
     for feed_url in FEEDS:
         feed = feedparser.parse(feed_url)
         print(f"Feed status: {feed.get('status', 'unknown')}, entries found: {len(feed.entries)}")
-        for entry in feed.entries[:5]: 
+        for entry in feed.entries[:5]:
+            if summaries_this_run >= MAX_SUMMARIES_PER_RUN:
+                print(f"Reached per-run cap ({MAX_SUMMARIES_PER_RUN}), stopping early")
+                cleanup_old_articles()
+                rebuild_index()
+                return
             slug = slugify(entry.title)
             if already_saved(slug):
                 continue
             summary = summarise(entry.get("summary", ""), title=entry.title)
+            summaries_this_run += 1
+            if summary is None:
+                print(f"Skipped (summarizer unavailable): {entry.title}")
+                continue
             date_str = datetime.now().strftime("%Y-%m-%d")
             save_article(entry.title, entry.link, summary, date_str)
     cleanup_old_articles()
