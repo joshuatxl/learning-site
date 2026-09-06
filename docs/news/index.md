@@ -1,7 +1,9 @@
 # News
 
 - [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](2026-09-06-xdof-just-three-months-out-of-stealth-is-in-talks-for-a-seri.md)
+- [Training a coding model to paint watercolours with TRL and OpenEnv](2026-09-06-training-a-coding-model-to-paint-watercolours-with-trl-and-o.md)
 - [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](2026-09-06-seattle-times-and-newsday-are-the-latest-publications-to-sue.md)
+- [Real-Time Intelligence with IBM Time Series Models on Confluent](2026-09-06-real-time-intelligence-with-ibm-time-series-models-on-conflu.md)
 - [Proactive cyber defense for governments and enterprises](2026-09-06-proactive-cyber-defense-for-governments-and-enterprises.md)
 - [OpenAI’s rogue agents keep escaping, with no formal process to investigate them](2026-09-06-openai-s-rogue-agents-keep-escaping-with-no-formal-process-t.md)
 - [OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](2026-09-06-openai-confirms-wiki-incident-says-it-s-working-on-a-framewo.md)
@@ -10,6 +12,8 @@
 - [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](2026-09-06-introducing-gemini-3-8-flash-and-3-8-flash-cyber.md)
 - [Introducing agentic video understanding with Gemini](2026-09-06-introducing-agentic-video-understanding-with-gemini.md)
 - [Hikers rescued after using Google Gemini for planning](2026-09-06-hikers-rescued-after-using-google-gemini-for-planning.md)
+- [Give Your Coding Agents a Memory You Own](2026-09-06-give-your-coding-agents-a-memory-you-own.md)
+- [Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps](2026-09-06-fine-tuning-a-350m-model-for-better-structured-outputs-in-10.md)
 - [OpenAI’s Astra model is on the way — and very good at breaking into computer systems](2026-09-02-openai-s-astra-model-is-on-the-way-and-very-good-at-breaking.md)
 - [Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls](2026-09-02-long-horizon-state-tracking-in-llms-executing-md5-through-a-.md)
 - [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](2026-09-02-introducing-huggingface-kernels-200-webgpu-kernels-for-local.md)

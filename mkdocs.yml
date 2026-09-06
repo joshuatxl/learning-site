@@ -4,3 +4,5 @@ theme:
 nav:
   - Home: index.md
   - News: news/index.md
+extra_css:
+  - stylesheets/news_grid.css

@@ -13,6 +13,9 @@ def summarise(text, title="", max_attempts=3):
                 model="gemini-3.6-flash",
                 contents=prompt,
             )
+            if response.text is None:
+                print("Empty response from Gemini (likely safety filtering), skipping this article")
+                return None
             return response.text.strip()
         except errors.ServerError:
             if attempt < max_attempts - 1:
@@ -24,6 +27,11 @@ def summarise(text, title="", max_attempts=3):
                 return None
         except errors.ClientError as e:
             print(f"Client error (not retryable): {e}")
+            return None
+        except Exception as e:
+            # catch-all: network errors, timeouts, or anything the SDK doesn't
+            # wrap in its own error types — must not crash the whole run
+            print(f"Unexpected error calling Gemini, skipping this article: {e}")
             return None
 
 if __name__ == "__main__":
