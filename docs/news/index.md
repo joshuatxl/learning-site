@@ -1,5 +1,12 @@
 # News
 
+- [Travis Kalanick’s Atoms might be getting into the robotaxi business](2026-09-07-travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-b.md)
+- [Iris: Climbing to the Search Frontier](2026-09-07-iris-climbing-to-the-search-frontier.md)
+- [Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation](2026-09-07-harbor-adapters-and-harbor-index-infrastructure-and-a-curate.md)
+- [From Matching Models to Recruiting Agents: A Systematized Narrative Review of AI Recruitment Systems, Evaluation, and Governance](2026-09-07-from-matching-models-to-recruiting-agents-a-systematized-nar.md)
+- [EXAONE Forecast for Finance](2026-09-07-exaone-forecast-for-finance.md)
+- [Data-Optimized Contingency Screening: A Machine Learning Approach to Power System Security](2026-09-07-data-optimized-contingency-screening-a-machine-learning-appr.md)
+- [Authors push back as publishers and agents make claims on Anthropic settlement](2026-09-07-authors-push-back-as-publishers-and-agents-make-claims-on-an.md)
 - [XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation](2026-09-06-xdof-just-three-months-out-of-stealth-is-in-talks-for-a-seri.md)
 - [Training a coding model to paint watercolours with TRL and OpenEnv](2026-09-06-training-a-coding-model-to-paint-watercolours-with-trl-and-o.md)
 - [Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](2026-09-06-seattle-times-and-newsday-are-the-latest-publications-to-sue.md)
