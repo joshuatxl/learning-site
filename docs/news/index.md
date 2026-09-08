@@ -1,5 +1,6 @@
 # News
 
+- [Opaque recurrence, and other AI terms that you should probably know](2026-09-08-opaque-recurrence-and-other-ai-terms-that-you-should-probabl.md)
 - [Travis Kalanick’s Atoms might be getting into the robotaxi business](2026-09-07-travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-b.md)
 - [Iris: Climbing to the Search Frontier](2026-09-07-iris-climbing-to-the-search-frontier.md)
 - [Harbor Adapters and Harbor-Index: Infrastructure and a Curated Meta-Dataset for Large-Scale Agentic Evaluation](2026-09-07-harbor-adapters-and-harbor-index-infrastructure-and-a-curate.md)
