@@ -1,0 +1,10 @@
+# Site
+mkdocs-material==9.5.44
+
+# Ingest pipeline
+feedparser==6.0.14
+python-frontmatter==1.3.0
+google-genai==2.20.0
+
+# Second-brain data layer (optional at ingest time; imported lazily by ingest/store.py)
+# chromadb==0.5.23

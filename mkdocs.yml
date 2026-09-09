@@ -1,8 +1,42 @@
-site_name: JT's learning site
+site_name: "What's going on in AI?"
+site_url: https://joshuatxl.github.io/learning-site/
+site_description: A daily AI briefing — aggregated and filed for the week.
+
 theme:
   name: material
+  custom_dir: overrides
+  palette:
+    scheme: default
+    primary: black
+  font: false          # use the system stack defined in briefing.css
+
+# Single-page site. Per-article .md files under news/ are the data store
+# only (read by the ingest pipeline + the hover popup via article-data.json);
+# they are not built into standalone pages.
+exclude_docs: |
+  news/
+
 nav:
-  - Home: index.md
-  - News: news/index.md
+  - Front Page: index.md
+
 extra_css:
-  - stylesheets/news_grid.css
+  - stylesheets/briefing.css
+
+extra_javascript:
+  - javascripts/briefing.js
+
+extra:
+  # Deployed summariser endpoint (see workers/). Empty = "Summarise this"
+  # explains what to deploy instead of calling anything.
+  summarise_url: ""
+
+plugins: []
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+validation:
+  nav:
+    omitted_files: ignore
+  absolute_links: ignore

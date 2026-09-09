@@ -1,11 +1,19 @@
 ---
-title: "Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls"
-url: "https://arxiv.org/abs/2609.00012"
 date: 2026-09-02
+fetched: '2026-09-02'
+preview: 'Long-horizon tasks remain uncommon in large language model (LLM) evaluation,
+  and for a reason: when each step depends on the last, per-step accuracy that looks
+  excellent in isolation decays catastrophically, as errors cascade and the end-to-end
+  failure…'
+published: '2026-09-02T00:00:00+00:00'
+source: ''
+title: 'Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence
+  of Dependent Tool Calls'
+url: https://arxiv.org/abs/2609.00012
 ---
 
 # Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls
 
-A recent study investigates why large language models (LLMs) struggle with long-horizon tasks, where minor per-step errors typically accumulate and cause total task failure. To cleanly isolate state-tracking performance from instruction interpretation, researchers tasked an LLM with manually computing an MD5 cryptographic hash through a deep sequence of 196 dependent tool calls. The open-weights model `gpt-oss-120b` successfully maintained the 32-bit intermediate state across all steps and produced the exact correct hash in a majority of completed runs. This level of precision was sustained even in a multi-LLM setup operating without exact-arithmetic software, relying instead on context retention and majority voting to fix computational slips. The key takeaway is that LLMs are capable of precise, long-horizon state tracking without inevitable error decay, provided their reasoning is preserved in context and voting mechanisms are applied to eliminate step-level mistakes.
+<p>Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failure probability grows sharply with length. Existing agentic benchmarks report end-to-end success but confound this state-tracking difficulty with instruction interpretation, give no control group that isolates it, and are vulnerable to shortcuts such as a hallucinated final answer, so they cannot say why a long run fails. Whether an LLM can carry exact intermediate state across many tool calls at all is itself not well established. We test this cleanly by having the model compute a cryptographic hash, MD5, step by step: a sequence of $196$ dependent tool calls over $64$ rounds while it carries four $32$-bit words $(a,b,c,d)$ in its own context from one call to the next. Interpretation is trivial and, because we implement MD5 from scratch (RFC~1321), we align every call to the ground-truth trace and check the digest to the bit, so any failure is pure bookkeeping. gpt-oss-120b, a mixture-of-experts model with only $\sim$5.5B active parameters per token, at temperature $0$ with a short fixed prompt, carries the full state across all $196$ calls and returns the correct digest on a majority of completed runs. In the strongest setting we replace every primitive tool with a second LLM, so a driver and a worker compute the whole hash from scratch with no exact-arithmetic oracle in the loop. Two ingredients decide success and neither changes the weights: keeping the model&amp;#39;s own reasoning in its context each turn, and voting over a thinking-enabled worker to remove its modular-arithmetic slips. We localize the residual failures by origin, separating state-carrying from arithmetic and from serving.</p>
 
 [Read the full article →](https://arxiv.org/abs/2609.00012)

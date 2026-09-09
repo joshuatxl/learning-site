@@ -1,11 +1,19 @@
 ---
-title: "Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing"
-url: "https://arxiv.org/abs/2609.00004"
 date: 2026-09-02
+fetched: '2026-09-02'
+preview: This paper studies a finite-horizon multi-item capacitated lot-sizing problem
+  in which demand quantities are deterministic, while demand-arrival periods are stochastic.
+  Each demand occurs once within a known time window and must be satisfied no later
+  than its…
+published: '2026-09-02T00:00:00+00:00'
+source: ''
+title: Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic
+  Demand Timing
+url: https://arxiv.org/abs/2609.00004
 ---
 
 # Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing
 
-This paper addresses a finite-horizon multi-item capacitated lot-sizing problem characterized by deterministic demand quantities but uncertain arrival timing. To capture capacity competition, backlogs, and dynamic inventory allocations under this uncertainty, the authors formulate the problem as a discrete-time Markov decision process (DTMDP). Their analysis reveals that stochastic demand timing drastically expands the state space, memory demands, and solution times compared to deterministic baselines. To solve large instances efficiently, the researchers introduced a Genetic Algorithm (GA) that searches over feasible state-feedback policies and evaluates them directly within the DTMDP framework. **Key Takeaways:** Across 330 benchmark instances, the proposed Genetic Algorithm demonstrated near-optimal performance with an average optimality gap of just 3.44%, while achieving an average 6.89-fold computational speedup on difficult instances where exact methods encounter severe hardware limitations.
+<p>This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stochastic. Each demand occurs once within a known time window and must be satisfied no later than its deadline. The proposed model makes production and allocation decisions at the demand level, allowing it to represent capacity competition, demand-specific backlog, and allocation-dependent inventory dynamics. The stochastic problem is formulated as a discrete-time Markov decision process (DTMDP), including the state space, feasible actions, transition kernel, and one-period cost function. To isolate the computational effect of stochastic timing, each stochastic instance is first compared with a deterministic counterpart in which each arrival distribution is replaced by its most likely arrival period. This comparison shows that stochastic timing substantially increases the number of states, the number of transitions, solution time, and memory pressure. A genetic algorithm (GA) is then proposed for the stochastic-timing problem. The GA searches over feasible state-feedback policies and evaluates each policy exactly under the DTMDP transition model. Computational experiments on 330 benchmark instances show that the GA remains close to the exact stochastic solution whenever the latter is available, with an average optimality gap of about $3.44\%$. On the difficult benchmark instances, comprising 90 test cases, the GA remains below the $5\%$ optimality-gap threshold and achieves an average optimization speedup of $6.89 \pm 1.41$ at the $95\%$ confidence level. For instances that cannot be solved exactly on the available hardware, an empirical Bellman-time regression is used to estimate the missing exact resolution time and extrapolate the expected GA speedup.</p>
 
 [Read the full article →](https://arxiv.org/abs/2609.00004)

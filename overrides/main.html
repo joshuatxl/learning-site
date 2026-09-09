@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{#- Single-page site: no tab bar. Material's header partial still renders
+    (its JS needs the elements) but briefing.css hides it with display:none. -#}
+{% block tabs %}{% endblock %}
+
+{#- Footer is a plain gradient band, no text. -#}
+{% block footer %}
+<footer class="site-footer" aria-hidden="true"></footer>
+{% endblock %}
+
+{#- Hand the summariser endpoint to briefing.js. -#}
+{% block scripts %}
+<script>window.BRIEFING_SUMMARISE_URL = {{ (config.extra.summarise_url or "") | tojson }};</script>
+{{ super() }}
+{% endblock %}

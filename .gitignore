@@ -1,0 +1,15 @@
+# Build output — mkdocs gh-deploy owns the gh-pages branch
+site/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local vector store (second-brain data layer)
+chroma/
+*.chroma
+
+# Secrets
+.env

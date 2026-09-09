@@ -1,0 +1,11 @@
+name = "briefing-summarise"
+main = "summarise-worker.js"
+compatibility_date = "2024-11-01"
+
+# Optional: lock CORS to your Pages origin instead of "*"
+# [vars]
+# ALLOW_ORIGIN = "https://joshuatxl.github.io"
+# GEMINI_MODEL = "gemini-2.0-flash"
+#
+# Set the API key as a secret (not committed):
+#   npx wrangler secret put GEMINI_API_KEY
