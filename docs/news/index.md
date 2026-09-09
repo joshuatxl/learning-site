@@ -1,5 +1,17 @@
 # News
 
+- [When Does Memory Help? A Cost-Aware Evaluation of Long-Term Memory in Tool-Using LLM Agents](2026-09-09-when-does-memory-help-a-cost-aware-evaluation-of-long-term-m.md)
+- [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](2026-09-09-safety-for-whom-refusing-the-right-subset-of-a-topic-not-the.md)
+- [OpenAI fought dirty on career-making math problem, says NYU mathematician](2026-09-09-openai-fought-dirty-on-career-making-math-problem-says-nyu-m.md)
+- [Meta debuts its Muse AI agent. Will consumers trust it?](2026-09-09-meta-debuts-its-muse-ai-agent-will-consumers-trust-it.md)
+- [Hackers are stealing Claude tokens from subscribers](2026-09-09-hackers-are-stealing-claude-tokens-from-subscribers.md)
+- [Google Cloud races to catch up in the AI deployment wars with Accenture deal](2026-09-09-google-cloud-races-to-catch-up-in-the-ai-deployment-wars-wit.md)
+- [Damage-Aware Bandit Pruning for Vision and Language Transformers](2026-09-09-damage-aware-bandit-pruning-for-vision-and-language-transfor.md)
+- [CriticGen: Generation-Aware Evaluation as Actionable Feedback](2026-09-09-criticgen-generation-aware-evaluation-as-actionable-feedback.md)
+- [Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market](2026-09-09-cognition-hits-48b-valuation-signaling-investors-believe-ai-.md)
+- [Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models](2026-09-09-beyond-right-and-wrong-evaluating-second-order-social-reason.md)
+- [AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents](2026-09-09-autofyn-technical-report-non-parametric-expert-iteration-for.md)
+- [AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome](2026-09-09-alphagenome-atlas-a-predictive-map-of-every-possible-dna-let.md)
 - [Opaque recurrence, and other AI terms that you should probably know](2026-09-08-opaque-recurrence-and-other-ai-terms-that-you-should-probabl.md)
 - [Travis Kalanick’s Atoms might be getting into the robotaxi business](2026-09-07-travis-kalanick-s-atoms-might-be-getting-into-the-robotaxi-b.md)
 - [Iris: Climbing to the Search Frontier](2026-09-07-iris-climbing-to-the-search-frontier.md)
