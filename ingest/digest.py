@@ -15,7 +15,8 @@ _PROMPT = (
     "articles added today, as 'title — preview'. Write 110–150 words of plain "
     "prose (two short paragraphs, no lists, no headings, no preamble) on what "
     "is going on in AI today. Lead with the biggest theme, name the specific "
-    "companies, models and papers involved, and keep it factual and readable."
+    "companies, models and papers involved, and keep it factual and readable. "
+    "Plain text only — no markdown, asterisks, underscores, headings or bullets."
     "{hot}\n\n{items}"
 )
 

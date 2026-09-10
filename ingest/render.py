@@ -96,6 +96,16 @@ def _esc(s: str) -> str:
     return html.escape(s or "")
 
 
+def _rich(s: str) -> str:
+    """Escape, then turn the model's leftover markdown emphasis
+    (**bold**, *italic*) into real tags so no raw asterisks show."""
+    s = _esc(s)
+    s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
+    s = re.sub(r"\*(.+?)\*", r"<em>\1</em>", s)
+    s = re.sub(r"(?<![\w*])_(.+?)_(?![\w*])", r"<em>\1</em>", s)
+    return s.replace("*", "")
+
+
 def _meta(a: Article) -> str:
     bits = [a.source] if a.source else []
     bits.append(a.published.strftime("%b %d"))
@@ -180,7 +190,7 @@ def _digest_window_html(text: str, when: str, hot: list[dict]) -> str:
     if not text.strip() and not hot:
         return f'<div class="wrap">\n  {DIGEST_START}\n  {DIGEST_END}\n</div>'
     paras = "".join(
-        f"<p>{_esc(p.strip())}</p>" for p in re.split(r"\n{2,}", text) if p.strip()
+        f"<p>{_rich(p.strip())}</p>" for p in re.split(r"\n{2,}", text) if p.strip()
     ) or "<p>Today&rsquo;s brief will appear here after the next update.</p>"
     return (
         f'<div class="wrap">\n'

@@ -18,7 +18,6 @@ FEEDS: list[tuple[str, str]] = [
     ("Import AI", "https://jack-clark.net/feed/"),
     ("Alpha Signal", "https://alphasignalai.substack.com/feed"),
     ("DeepMind", "https://deepmind.com/blog/feed/basic"),
-    ("arXiv cs.AI", "https://rss.arxiv.org/rss/cs.AI"),
 ]
 
 # Max entries to inspect per feed per run (newest first).
