@@ -10,7 +10,7 @@ hide:
   <span class="digest-glow"></span>
   <div class="wrap">
     <h1 class="digest-title">What&rsquo;s going on in AI?</h1>
-    <p class="refreshed">Last refreshed 9 Sep 2026 at 22:59 AWST</p>
+    <p class="refreshed">Last refreshed 10 Sep 2026 at 18:08 AWST</p>
   </div>
 </section>
 
@@ -18,8 +18,8 @@ hide:
   <!-- AI-DIGEST-START -->
   <section class="ai-brief" aria-label="Today in AI">
     <p class="ai-brief-kicker"><span class="ai-brief-dot"></span>Today in AI</p>
-    <p class="brief-hot"><span class="brief-hot-flag">Hot</span><a class="brief-hot-chip" href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/" target="_blank" rel="noopener" title="MIT Tech Review, TechCrunch">math · NYU<span class="brief-hot-n">2 feeds</span></a><a class="brief-hot-chip" href="https://openai.com/index/codex-quantum-computing-experiments" target="_blank" rel="noopener" title="Alpha Signal, OpenAI">GPT-5.6 Sol<span class="brief-hot-n">2 feeds</span></a><a class="brief-hot-chip" href="https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/" target="_blank" rel="noopener" title="Import AI, MIT Tech Review">Hugging Face<span class="brief-hot-n">2 feeds</span></a></p>
-    <div class="ai-brief-body"><p>[PLACEHOLDER] Today&#x27;s biggest thread is OpenAI: multiple outlets covered a math-benchmark controversy, with an NYU mathematician alleging OpenAI &quot;fought dirty&quot; on a career-making problem, and separate reporting tied a Hugging Face security incident to cultural issues inside the company. GPT-5.6 Sol also drew broad coverage, from running autonomous quantum-computing experiments to topping independent coding and math evaluations.</p><p>Elsewhere, funding and product news moved fast: Mistral raised EUR3B on a sovereign-AI thesis, Cognition hit a $48B valuation, and Google Cloud leaned on an Accenture tie-up to catch up in enterprise AI. Meta debuted its Muse agent, Instacart shipped a shopping assistant, and researchers released work on medical AI (AMIE) and safer topic-level refusals.</p></div>
+    <p class="brief-hot"><span class="brief-hot-flag">Hot</span><a class="brief-hot-chip" href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/" target="_blank" rel="noopener" title="MIT Tech Review, TechCrunch">math · dirty<span class="brief-hot-n">2 feeds</span></a><a class="brief-hot-chip" href="https://openai.com/index/codex-quantum-computing-experiments" target="_blank" rel="noopener" title="Alpha Signal, OpenAI">GPT-5.6 Sol<span class="brief-hot-n">2 feeds</span></a><a class="brief-hot-chip" href="https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/" target="_blank" rel="noopener" title="Import AI, MIT Tech Review">Hugging Face<span class="brief-hot-n">2 feeds</span></a><a class="brief-hot-chip" href="https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/" target="_blank" rel="noopener" title="OpenAI, TechCrunch">board · OpenAI<span class="brief-hot-n">2 feeds</span></a></p>
+    <div class="ai-brief-body"><p>OpenAI has appointed prominent alignment researcher Paul Christiano to its Foundation Board and Safety and Security Committee, highlighting a heightened corporate focus on safety governance. Meanwhile, major frontier labs unveiled new model releases. OpenAI introduced GPT-6 Astra for enterprise computer use, while Google announced Gemini 3.7 Flash, Gemini Omni 1.1 Flash, and the open-source WeatherNext cyclone forecasting model. Additionally, IBM released its open Granite Time Series PatchTST-FM-r2 model, and startup Listen Labs entered acquisition talks with Salesforce.</p><p>In consumer tech, Apple unveiled the foldable iPhone Duo featuring an AI-designed hinge, an always-listening Apple Watch, and Apple Reference Image technology to verify non-AI photos. On the research front, autonomous agent evaluation dominated discussions, led by papers such as *ContractEval* for execution matching and *OpenDiscoveryTrace* for auditing scientific reasoning processes. Together, today&#x27;s developments reflect a rapid push toward specialized agentic capabilities alongside stronger alignment and hardware integration.</p></div>
   </section>
   <!-- AI-DIGEST-END -->
 </div>
@@ -27,6 +27,334 @@ hide:
   <section class="level-section">
     <div class="wrap">
       <div class="section-head"><span class="section-dot"></span><h3>Today</h3><div class="rule"></div></div>
+      <div class="pair">
+        <article class="story-card light" data-id="2026-09-10-adaptive-entangled-game-modules-in-artificial-general-intell" data-href="https://arxiv.org/abs/2609.09226" data-title="Adaptive Entangled Game Modules in Artificial General Intelligence" data-source="arXiv cs.AI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">Adaptive Entangled Game Modules in Artificial General Intelligence</h4>
+            <p class="preview clamp">We introduce a probability-wave framework for modeling the collective behavior of interacting adaptive agents, deriving testable eigenmodes through a generalized behavioral intelligence (GBI) nonlocal probability-wave equation. This framework captures a broad…</p>
+            <div class="meta">arXiv cs.AI · Sep 10</div>
+          </div>
+        </article>
+        <article class="story-card light" data-id="2026-09-10-an-autonomous-geoai-agent-for-arctic-eco-navigation" data-href="https://arxiv.org/abs/2609.09374" data-title="An Autonomous GeoAI Agent for Arctic Eco-Navigation" data-source="arXiv cs.AI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">An Autonomous GeoAI Agent for Arctic Eco-Navigation</h4>
+            <p class="preview clamp">Arctic maritime navigation is becoming increasingly important as changing sea-ice conditions expand seasonal accessibility while simultaneously introducing substantial operational, environmental, and community risks. Arctic route planning is inherently a…</p>
+            <div class="meta">arXiv cs.AI · Sep 10</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card light" data-id="2026-09-10-contracteval-query-conditioned-execution-matching-for-proced" data-href="https://arxiv.org/abs/2609.09458" data-title="ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance" data-source="arXiv cs.AI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">ContractEval: Query-Conditioned Execution Matching for Procedural Instruction Conformance</h4>
+            <p class="preview clamp">As LLM agents move from answering questions to carrying out procedures, failures can be unwarranted rather than visibly wrong: the final response looks acceptable even though the system skipped the check, branch, dependency, or invariant that made the answer…</p>
+            <div class="meta">arXiv cs.AI · Sep 10</div>
+          </div>
+        </article>
+        <article class="story-card light" data-id="2026-09-10-decision-focused-active-learning-for-scale-aware-critical-ma" data-href="https://arxiv.org/abs/2609.09413" data-title="Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery" data-source="arXiv cs.AI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">Decision-Focused Active Learning for Scale-Aware Critical-Materials Recovery</h4>
+            <p class="preview clamp">Choosing a recovery process for scale-up requires connecting laboratory results with product requirements, process costs, and scale effects. We analyze records from Pacific Northwest National Laboratory&amp;#39;s Computer Intelligence for Critical Element…</p>
+            <div class="meta">arXiv cs.AI · Sep 10</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card light" data-id="2026-09-10-do-agents-know-when-they-succeed-calibrating-agent-confidenc" data-href="https://arxiv.org/abs/2609.09448" data-title="Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations" data-source="arXiv cs.AI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">Do Agents Know When They Succeed? Calibrating Agent Confidence from Internal Representations</h4>
+            <p class="preview clamp">As agentic systems getting adopted rapidly in safety critical applications, it is vital to measure the confidence associated with the agentic actions. In comparison to the traditional machine learning systems, agentic workflows have complex failure modes with…</p>
+            <div class="meta">arXiv cs.AI · Sep 10</div>
+          </div>
+        </article>
+        <article class="story-card light" data-id="2026-09-10-gradland-on-phenomenal-experience-differentiated-across-many" data-href="https://arxiv.org/abs/2609.09306" data-title="Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions" data-source="arXiv cs.AI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions</h4>
+            <p class="preview clamp">This paper investigates the hypothesis that the first-order structure of physical interactions, i.e. gradients or Jacobians, characterizes the structure of phenomenal experience. It does so in an idealized world inhabited by neural networks, Gradland, where…</p>
+            <div class="meta">arXiv cs.AI · Sep 10</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card light" data-id="2026-09-10-multi-agent-agentic-graph-learning-via-structural-signatures" data-href="https://arxiv.org/abs/2609.09565" data-title="Multi-Agent Agentic Graph Learning via Structural Signatures" data-source="arXiv cs.AI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">Multi-Agent Agentic Graph Learning via Structural Signatures</h4>
+            <p class="preview clamp">Agentic graph learning (AGL) has recently achieved promising results on graph reasoning tasks, where an agent powered by a large language model (LLM) sequentially samples the graph as evidence to support its final prediction. Existing methods either employ a…</p>
+            <div class="meta">arXiv cs.AI · Sep 10</div>
+          </div>
+        </article>
+        <article class="story-card light" data-id="2026-09-10-opendiscoverytrace-process-traces-for-evaluating-ai-scientis" data-href="https://arxiv.org/abs/2609.09203" data-title="OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows" data-source="arXiv cs.AI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows</h4>
+            <p class="preview clamp">Existing benchmarks for autonomous AI scientists evaluate only final outputs---generated code, hypotheses, or papers---yet discard the reasoning process by which those outputs were obtained. This makes it impossible to audit scientific methodology, diagnose…</p>
+            <div class="meta">arXiv cs.AI · Sep 10</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card light" data-id="2026-09-10-subagents-vs-agent-skills-executing-reusable-knowledge-for-l" data-href="https://arxiv.org/abs/2609.09233" data-title="Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks" data-source="arXiv cs.AI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks</h4>
+            <p class="preview clamp">How can language model agents effectively leverage libraries of reusable knowledge to solve long-horizon tasks? Recent work has increasingly focused on agent skills: reusable capabilities represented as skill packages, i.e., multi-file bundles containing…</p>
+            <div class="meta">arXiv cs.AI · Sep 10</div>
+          </div>
+        </article>
+        <article class="story-card light" data-id="2026-09-10-the-menu-is-an-execution-prior-state-path-tool-menus-for-onl" data-href="https://arxiv.org/abs/2609.09395" data-title="The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents" data-source="arXiv cs.AI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents</h4>
+            <p class="preview clamp">Language models act through tools, yet practical agents face libraries containing thousands of interfaces. We introduce the tool menu as the short, ordered subset of available tools shown to an agent before execution. The agent can call only tools in this…</p>
+            <div class="meta">arXiv cs.AI · Sep 10</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card light" data-id="2026-09-10-valerant-an-automatic-navigable-game-map-generator-via-actio" data-href="https://arxiv.org/abs/2609.09418" data-title="Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration" data-source="arXiv cs.AI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration</h4>
+            <p class="preview clamp">World Action Models (WAMs) couple predictive world modeling with action generation, allowing anticipated future states to guide agent behavior. Although WAMs are rapidly advancing embodied AI, general-purpose counterparts remain largely unexplored in games…</p>
+            <div class="meta">arXiv cs.AI · Sep 10</div>
+          </div>
+        </article>
+        <article class="story-card light" data-id="2026-09-10-xai-arena-can-llms-assess-the-quality-of-xai-explanations" data-href="https://arxiv.org/abs/2609.09428" data-title="XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?" data-source="arXiv cs.AI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">XAI-Arena: Can LLMs Assess the Quality of XAI Explanations?</h4>
+            <p class="preview clamp">Evaluating the quality of explanations produced by explainable AI (XAI) methods remains challenging because existing approaches often rely on subjective human judgment, limiting reproducibility, scalability, and comparability between studies. We examine…</p>
+            <div class="meta">arXiv cs.AI · Sep 10</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-10-ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-roun" data-href="https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/" data-title="AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks" data-source="TechCrunch" data-date="Sep 10, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks</h4>
+            <p class="preview clamp">Listen Labs, a market research startup that uses voice AI to conduct customer interviews, recently signed a term sheet for a $125 million Series C at a $1.5 billion valuation, with Menlo Ventures set to lead the round, according to several people with…</p>
+            <div class="meta">TechCrunch · Sep 10</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-09-openai-adds-a-prominent-ai-doomer-to-its-board-of-directors" data-href="https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/" data-title="OpenAI adds a prominent AI doomer to its board of directors" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">OpenAI adds a prominent AI doomer to its board of directors</h4>
+            <p class="preview clamp">Paul Christiano, an influential AI researcher focused on keeping AI systems aligned with human interests and under human control, is joining the OpenAI Foundation board, the frontier lab said Wednesday. “I now believe there is a meaningful risk that rapid…</p>
+            <div class="meta">TechCrunch · Sep 09</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-09-massachusetts-hits-data-centers-with-new-clean-power-rules" data-href="https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/" data-title="Massachusetts hits data centers with new clean power rules" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Massachusetts hits data centers with new clean power rules</h4>
+            <p class="preview clamp">Massachusetts became the latest state to force data centers to bring their own power, but this time there’s a twist. A new state mandate would require developers building data centers larger than 25 megawatts to provide clean power or pay into a ratepayer…</p>
+            <div class="meta">TechCrunch · Sep 09</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-09-apple-watch-s-new-ai-features-are-normalizing-the-idea-that" data-href="https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/" data-title="Apple Watch’s new AI features are normalizing the idea that technology is always listening" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/live-rewind.jpg?resize=1200,679" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/live-rewind.jpg?resize=1200,679" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Apple Watch’s new AI features are normalizing the idea that technology is always listening</h4>
+            <p class="preview clamp">Apple is trying to get consumers to accept, and even welcome, a new reality: Your tech is always listening. At Wednesday’s Surprise and Shine event , where the company introduced its new hardware lineup, the real surprise turned out not to be the foldable…</p>
+            <div class="meta">TechCrunch · Sep 09</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-09-everything-apple-announced-at-its-fall-iphone-event-from-the" data-href="https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/" data-title="Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.56.54-PM.png?resize=1200,730" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.56.54-PM.png?resize=1200,730" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch</h4>
+            <p class="preview clamp">Apple on Wednesday unveiled its latest iPhones and Apple Watches at its first fall event under newly appointed CEO John Ternus. The main event was the tech giant’s highly anticipated first foldable phone, the iPhone Duo . Apple also announced its iPhone 18…</p>
+            <div class="meta">TechCrunch · Sep 09</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-09-the-hinge-for-apple-s-new-foldable-phone-was-built-with-ai" data-href="https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/" data-title="The hinge for Apple’s new foldable phone was built with AI" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.14.55-PM.jpg?resize=1200,687" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.14.55-PM.jpg?resize=1200,687" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">The hinge for Apple’s new foldable phone was built with AI</h4>
+            <p class="preview clamp">Duo, Apple’s long-awaited foldable phone announced at the company’s Surprise and Shine event on Wednesday, contains a number of surprises, including a critical hinge that was designed and built with the help of AI and 3D printing. The new phone represents…</p>
+            <div class="meta">TechCrunch · Sep 09</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-09-apple-s-revamped-health-app-will-calculate-your-health-age-a" data-href="https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/" data-title="Apple’s revamped Health app will calculate your ‘health age’ and readiness score" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Apple’s revamped Health app will calculate your ‘health age’ and readiness score</h4>
+            <p class="preview clamp">Alongside the new Apple Watch Series 12 and Ultra 4, Apple on Wednesday introduced a redesigned Apple Health app that takes advantage of Apple Intelligence to make better sense of your health data. The changes deliver a new Insights tab that includes a…</p>
+            <div class="meta">TechCrunch · Sep 09</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-09-apple-has-a-new-way-to-prove-your-iphone-photos-aren-t-ai-sl" data-href="https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/" data-title="Apple has a new way to prove your iPhone photos aren’t AI slop" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big.jpg.large_2x.jpg?resize=1200,800" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big.jpg.large_2x.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Apple has a new way to prove your iPhone photos aren’t AI slop</h4>
+            <p class="preview clamp">In a world awash in AI slop, Apple wants you to trust what gets captured on its iPhones. The company announced Wednesday during its Surprise and Shine event that it is introducing Apple Reference Image, a feature it says can prove whether an image taken with…</p>
+            <div class="meta">TechCrunch · Sep 09</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-09-apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-i" data-href="https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/" data-title="Apple CEO John Ternus says the best AI device is still the iPhone" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/ternus-2.jpg?resize=1200,672" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/ternus-2.jpg?resize=1200,672" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Apple CEO John Ternus says the best AI device is still the iPhone</h4>
+            <p class="preview clamp">Apple’s new CEO, John Ternus, used the opening of the company’s Surprise and Shine event Wednesday to make its AI strategy clear: The iPhone is already the best AI device out there, and Apple cares more about data privacy than its rivals. The comments come as…</p>
+            <div class="meta">TechCrunch · Sep 09</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-09-paul-christiano-joins-openai-foundation-board" data-href="https://openai.com/index/paul-christiano-joins-openai-foundation-board" data-title="Paul Christiano joins OpenAI Foundation Board" data-source="OpenAI" data-date="Sep 09, 2026" data-image="https://images.ctfassets.net/kftzwdyauwt9/182NzFWut4sS5hBGtIVsq5/c2620026fe60121fe6543a992c7477ea/paul-christiano-joins-openai-foundation-board--seo-v001.png?w=1600&amp;h=900&amp;fit=fill" tabindex="0" role="link">
+          <img class="banner" src="https://images.ctfassets.net/kftzwdyauwt9/182NzFWut4sS5hBGtIVsq5/c2620026fe60121fe6543a992c7477ea/paul-christiano-joins-openai-foundation-board--seo-v001.png?w=1600&amp;h=900&amp;fit=fill" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Paul Christiano joins OpenAI Foundation Board</h4>
+            <p class="preview clamp">We’re announcing the appointment of Paul Christiano to the OpenAI Foundation Board. He will be a non-voting observer on the OpenAI Group PBC Board. Paul will also join the Safety and Security Committee (SSC) of the Foundation Board, working alongside its…</p>
+            <div class="meta">OpenAI · Sep 09</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-09-superintelligence-is-coming-should-we-let-it" data-href="https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/" data-title="Superintelligence is coming. Should we let it?" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Superintelligence is coming. Should we let it?</h4>
+            <p class="preview clamp">AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens…</p>
+            <div class="meta">TechCrunch · Sep 09</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-09-get-ready-for-the-game-with-new-football-features-in-search" data-href="https://blog.google/products-and-platforms/products/search/football-features-google-search/" data-title="Get ready for the game with new football features in Search" data-source="Google AI" data-date="Sep 09, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" tabindex="0" role="link">
+          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Get ready for the game with new football features in Search</h4>
+            <p class="preview clamp">Get ready for the game with new football features in Search Never miss a play this season. Our latest upgrades in Search bring a Live Game Feed and deeper stats straight to your screen. Plus, you can now connect your fantasy football account to get tailored…</p>
+            <div class="meta">Google AI · Sep 09</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-09-recreating-a-70-year-love-story-frame-by-frame" data-href="https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/" data-title="Recreating a 70-year love story frame by frame" data-source="Google AI" data-date="Sep 09, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" tabindex="0" role="link">
+          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Recreating a 70-year love story frame by frame</h4>
+            <p class="preview clamp">Recreating a 70-year love story frame by frame Discover how filmmakers and Google DeepMind used AI to recreate a couple&amp;#x27;s unrecorded past in the short film &amp;quot;Love, Rendered.&amp;quot; The documentary &amp;quot;Love, Rendered&amp;quot; uses artificial…</p>
+            <div class="meta">Google AI · Sep 09</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-09-controlai-s-connor-leahy-on-why-superintelligence-is-not-a-w" data-href="https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/" data-title="ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/55324827324_597f58ba10_k.jpg?resize=1200,800" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/55324827324_597f58ba10_k.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’</h4>
+            <p class="preview clamp">AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens…</p>
+            <div class="meta">TechCrunch · Sep 09</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-09-ibm-releases-sota-granite-time-series-patchtst-fm-r2-model-w" data-href="https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series" data-title="IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license" data-source="Hugging Face" data-date="Sep 09, 2026" data-image="https://cdn-uploads.huggingface.co/production/uploads/69d3d41eef229c09afea5d83/KYse3pX6t3l8FnI-1pKsi.png" tabindex="0" role="link">
+          <img class="banner" src="https://cdn-uploads.huggingface.co/production/uploads/69d3d41eef229c09afea5d83/KYse3pX6t3l8FnI-1pKsi.png" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license</h4>
+            <p class="preview clamp">IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license High-performance zero-shot forecasting with commercial-friendly open licensing Time-series foundation models are changing the way forecasting systems are built…</p>
+            <div class="meta">Hugging Face · Sep 09</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-09-viral-ai-assistant-instinct-now-has-its-own-email-address" data-href="https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/" data-title="Viral AI assistant Instinct now has its own email address" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/instinct-email.jpeg?w=1200" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/instinct-email.jpeg?w=1200" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Viral AI assistant Instinct now has its own email address</h4>
+            <p class="preview clamp">Instinct , the buzzy new AI assistant now valued at $2.5 billion , is rolling out a new feature that will allow it to do more on its users’ behalf: It’s giving everyone Instinct email addresses. The company’s founder, Noah Shinn, said on Tuesday that the new…</p>
+            <div class="meta">TechCrunch · Sep 09</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-09-the-ai-policy-window-is-open-we-need-to-act" data-href="https://openai.com/index/ai-policy-window" data-title="The AI policy window is open. We need to act." data-source="OpenAI" data-date="Sep 09, 2026" data-image="https://images.ctfassets.net/kftzwdyauwt9/3j3cxGtSNDD0McSlczkBsg/2627bd7c7ea80e644696bd92587dc88c/6j6yjkcvdffsmjbvq2uw8u-seo__1_.png?w=1600&amp;h=900&amp;fit=fill" tabindex="0" role="link">
+          <img class="banner" src="https://images.ctfassets.net/kftzwdyauwt9/3j3cxGtSNDD0McSlczkBsg/2627bd7c7ea80e644696bd92587dc88c/6j6yjkcvdffsmjbvq2uw8u-seo__1_.png?w=1600&amp;h=900&amp;fit=fill" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">The AI policy window is open. We need to act.</h4>
+            <p class="preview clamp">We’ve reached a new chapter in AI capabilities, and that demands a new chapter for AI policy. No company, industry, or government can meet this challenge alone. We need to meet this moment with a bias toward meaningful action over policy perfection. Pushing…</p>
+            <div class="meta">OpenAI · Sep 09</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-09-gpt-6-astra-the-next-generation-in-intelligence-for-work" data-href="https://openai.com/index/gpt-6-astra-next-generation-work" data-title="GPT-6 Astra: The next generation in intelligence for work" data-source="OpenAI" data-date="Sep 09, 2026" data-image="https://images.ctfassets.net/kftzwdyauwt9/1UclxTs0019dGYT78njfV7/564c2815192122bcdcedce7b4ab36e3a/Business_blog_16x9.png?w=1600&amp;h=900&amp;fit=fill" tabindex="0" role="link">
+          <img class="banner" src="https://images.ctfassets.net/kftzwdyauwt9/1UclxTs0019dGYT78njfV7/564c2815192122bcdcedce7b4ab36e3a/Business_blog_16x9.png?w=1600&amp;h=900&amp;fit=fill" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">GPT-6 Astra: The next generation in intelligence for work</h4>
+            <p class="preview clamp">Last week we introduced GPT‑6 Astra, the world’s most intelligent and aligned model, now available in ChatGPT Work, Codex, and the API. Astra is state-of-the-art on computer use, browsing, professional work, software engineering, cybersecurity, and science…</p>
+            <div class="meta">OpenAI · Sep 09</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-08-27-gemini-omni-1-1-flash-lets-you-build-with-more-control" data-href="https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/" data-title="Gemini Omni 1.1 Flash lets you build with more control" data-source="DeepMind" data-date="Aug 27, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.width-1300.png" tabindex="0" role="link">
+          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.width-1300.png" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Gemini Omni 1.1 Flash lets you build with more control</h4>
+            <p class="preview clamp">Gemini Omni 1.1 Flash lets you build with more control Omni now delivers studio-quality video production, including the ability to extend a scene, first and last frame interpolation, crisp 4K upscaling, faster prototyping, and more. Product Manager, Google…</p>
+            <div class="meta">DeepMind · Aug 27</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-08-27-piloting-the-world-s-first-double-blind-ai-evaluations" data-href="https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/" data-title="Piloting the world&#x27;s first double-blind AI evaluations" data-source="DeepMind" data-date="Aug 27, 2026" data-image="https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo" tabindex="0" role="link">
+          <img class="banner" src="https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Piloting the world&#x27;s first double-blind AI evaluations</h4>
+            <p class="preview clamp">Building trust in proprietary model benchmarks using cryptographically secure environments Imagine a student is set to take a high-stakes exam. If they accidentally peek at the test questions in advance, achieving a perfect score is influenced by this…</p>
+            <div class="meta">DeepMind · Aug 27</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-08-26-intelligent-transcription-with-gemini-3-5-transcribe" data-href="https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/" data-title="Intelligent transcription with Gemini 3.5 Transcribe" data-source="DeepMind" data-date="Aug 26, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg" tabindex="0" role="link">
+          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Intelligent transcription with Gemini 3.5 Transcribe</h4>
+            <p class="preview clamp">Intelligent transcription with Gemini 3.5 Transcribe Our latest speech-to-text model designed for precise and intelligent real-time transcription. Senior Director, Engineering, Gemini Audio Chief of Staff, Gemini Audio, on behalf of Gemini Audio Team Today…</p>
+            <div class="meta">DeepMind · Aug 26</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-08-21-from-atari-to-eve-online-building-on-15-years-of-ai-research" data-href="https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/" data-title="From Atari to EVE Online: Building on 15 Years of AI Research in Games" data-source="DeepMind" data-date="Aug 21, 2026" data-image="https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo" tabindex="0" role="link">
+          <img class="banner" src="https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">From Atari to EVE Online: Building on 15 Years of AI Research in Games</h4>
+            <p class="preview clamp">From Atari to Go to StarCraft, games have driven some of the biggest breakthroughs in AI. Now, we’re partnering with game developers to prototype new gameplay experiences that push the frontiers of both gaming and AI. Since DeepMind’s foundation in 2010, the…</p>
+            <div class="meta">DeepMind · Aug 21</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-08-13-introducing-gemini-3-7-flash" data-href="https://deepmind.google/blog/introducing-gemini-3-7-flash/" data-title="Introducing Gemini 3.7 Flash" data-source="DeepMind" data-date="Aug 13, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png" tabindex="0" role="link">
+          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Introducing Gemini 3.7 Flash</h4>
+            <p class="preview clamp">Introducing Gemini 3.7 Flash Our most intelligent workhorse model yet for coding and agents. Senior Director, Product Management, on behalf of the Gemini team Today, we’re building on the progress of our widely used Flash series by introducing Gemini 3.7…</p>
+            <div class="meta">DeepMind · Aug 13</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-08-12-putting-sign-language-ai-into-users-hands" data-href="https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/" data-title="Putting sign language AI into users’ hands" data-source="DeepMind" data-date="Aug 12, 2026" data-image="https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo" tabindex="0" role="link">
+          <img class="banner" src="https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Putting sign language AI into users’ hands</h4>
+            <p class="preview clamp">Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users. AI&amp;#x27;s ability to process spoken languages has advanced rapidly over recent decades, enabling automatic translation…</p>
+            <div class="meta">DeepMind · Aug 12</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-08-06-weathernext-ai-model-achieves-breakthrough-in-forecasting-cy" data-href="https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/" data-title="WeatherNext: AI model achieves breakthrough in forecasting cyclones" data-source="DeepMind" data-date="Aug 06, 2026" data-image="https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo" tabindex="0" role="link">
+          <img class="banner" src="https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">WeatherNext: AI model achieves breakthrough in forecasting cyclones</h4>
+            <p class="preview clamp">WeatherNext enables accurate cyclone forecasts that can give an extra day of warning. Now we are open sourcing the model. Predicting how dangerous cyclones develop is a longstanding challenge where every hour counts. Tropical cyclones — also known as…</p>
+            <div class="meta">DeepMind · Aug 06</div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="level-section">
+    <div class="wrap">
+      <div class="section-head"><span class="section-dot"></span><h3>Yesterday</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-09-instacart-launches-an-ai-grocery-shopping-assistant-called-c" data-href="https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/" data-title="Instacart launches an AI grocery shopping assistant called Clementine" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -914,7 +1242,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>Yesterday</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>2 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-08-opaque-recurrence-and-other-ai-terms-that-you-should-probabl" data-href="https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/" data-title="Opaque recurrence, and other AI terms that you should probably know" data-source="" data-date="Sep 08, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -930,7 +1258,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>2 days ago</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>3 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-07-authors-push-back-as-publishers-and-agents-make-claims-on-an" data-href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/" data-title="Authors push back as publishers and agents make claims on Anthropic settlement" data-source="" data-date="Sep 07, 2026" data-image="https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -1000,7 +1328,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>3 days ago</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>4 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-06-fine-tuning-a-350m-model-for-better-structured-outputs-in-10" data-href="https://huggingface.co/blog/grpo-with-trl-ifstruct" data-title="Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps" data-source="" data-date="Sep 06, 2026" data-image="https://huggingface.co/blog/assets/grpo-with-trl-ifstruct/thumbnail.png" tabindex="0" role="link">
           <img class="banner" src="https://huggingface.co/blog/assets/grpo-with-trl-ifstruct/thumbnail.png" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -1124,115 +1452,6 @@ hide:
             <h4 class="clamp">XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation</h4>
             <p class="preview clamp">Less than three months after emerging from stealth, XDOF , a startup that collects real-world teleoperation data for training general-purpose robots, is in late-stage talks to raise a Series B at a valuation of about $1.2 billion valuation led by 8VC, several…</p>
             <div class="meta">Sep 06</div>
-          </div>
-        </article>
-      </div>
-    </div>
-  </section>
-
-  <section class="level-section">
-    <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>7 days ago</h3><div class="rule"></div></div>
-      <div class="pair">
-        <article class="story-card" data-id="2026-09-02-afterquery-reportedly-becomes-y-combinator-s-fastest-ever-un" data-href="https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/" data-title="AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B" data-source="" data-date="Sep 02, 2026" data-image="https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B</h4>
-            <p class="preview clamp">AI training-data startup AfterQuery has reportedly raised a round that valued it at $3.2 billion. This just five months after announcing its $30 million Series A at a $300 million valuation in April. That’s more than a 10x increase in less than half a year…</p>
-            <div class="meta">Sep 02</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-02-anthropic-s-new-fable-release-is-cheaper-less-restrictive" data-href="https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/" data-title="Anthropic’s new Fable release is cheaper, less restrictive" data-source="" data-date="Sep 02, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Anthropic’s new Fable release is cheaper, less restrictive</h4>
-            <p class="preview clamp">On Tuesday, Anthropic released Fable and Mythos 5.1, twinned versions of the company’s most advanced AI model. In addition to performance upgrades, the new Fable release includes changes meant to reduce token cost and false-positive restrictions from the…</p>
-            <div class="meta">Sep 02</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card" data-id="2026-09-02-benchmirt-what-are-llm-benchmarks-actually-measuring" data-href="https://huggingface.co/blog/allenai/benchmirt" data-title="BenchMIRT: What are LLM benchmarks actually measuring?" data-source="" data-date="Sep 02, 2026" data-image="https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/c_Rnu4DRj6Djxk1IT0gKu.png" tabindex="0" role="link">
-          <img class="banner" src="https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/c_Rnu4DRj6Djxk1IT0gKu.png" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">BenchMIRT: What are LLM benchmarks actually measuring?</h4>
-            <p class="preview clamp">BenchMIRT: What are LLM benchmarks actually measuring? 📄 Tech Report: http://allenai.org/papers/benchmirt | 📊 Data: https://huggingface.co/collections/allenai/benchmirt | 💻 Code: https://github.com/allenai/BenchMIRT Today we’re introducing BenchMIRT, a new…</p>
-            <div class="meta">Sep 02</div>
-          </div>
-        </article>
-        <article class="story-card light" data-id="2026-09-02-discrete-time-mdp-modeling-for-multi-item-capacitated-lot-si" data-href="https://arxiv.org/abs/2609.00004" data-title="Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing" data-source="" data-date="Sep 02, 2026" data-image="" tabindex="0" role="link">
-          <div class="body">
-            <h4 class="clamp">Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing</h4>
-            <p class="preview clamp">This paper studies a finite-horizon multi-item capacitated lot-sizing problem in which demand quantities are deterministic, while demand-arrival periods are stochastic. Each demand occurs once within a known time window and must be satisfied no later than its…</p>
-            <div class="meta">Sep 02</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card" data-id="2026-09-02-google-s-android-update-tackles-motion-sickness-accessibilit" data-href="https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/" data-title="Google’s Android update tackles motion sickness, accessibility, and more" data-source="" data-date="Sep 02, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Google’s Android update tackles motion sickness, accessibility, and more</h4>
-            <p class="preview clamp">On Tuesday, Google announced it’s rolling out five new updates designed to make Android phones more accessible, useful, and personalized. Announced in a blog post , the features include those aimed at reducing motion sickness, helping blind and low-vision…</p>
-            <div class="meta">Sep 02</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-02-google-s-answer-to-canva-is-an-ai-tool-where-you-prompt-inst" data-href="https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/" data-title="Google’s answer to Canva is an AI tool where you prompt instead of design" data-source="" data-date="Sep 02, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Google’s answer to Canva is an AI tool where you prompt instead of design</h4>
-            <p class="preview clamp">Google is entering the creative design market with a new image-creation and editing tool called Google Pics, which will become a part of its Google Workspace suite for business customers and premium Google AI subscribers. The company says the product, which…</p>
-            <div class="meta">Sep 02</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card light" data-id="2026-09-02-hyperworld-hypergraph-structured-state-serialization-improve" data-href="https://arxiv.org/abs/2609.00002" data-title="HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models" data-source="" data-date="Sep 02, 2026" data-image="" tabindex="0" role="link">
-          <div class="body">
-            <h4 class="clamp">HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models</h4>
-            <p class="preview clamp">World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic action effects from serialized state descriptions, but the role of serialization structure remains…</p>
-            <div class="meta">Sep 02</div>
-          </div>
-        </article>
-        <article class="story-card light" data-id="2026-09-02-i-care-analysis-of-interference-related-phenomena-in-a-contr" data-href="https://arxiv.org/abs/2609.00003" data-title="I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models" data-source="" data-date="Sep 02, 2026" data-image="" tabindex="0" role="link">
-          <div class="body">
-            <h4 class="clamp">I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models</h4>
-            <p class="preview clamp">Machine unlearning studies the removal of knowledge from an AI model, making the system forget a concept it previously learned. Despite rapid progress in generative machine unlearning, the unintended degradation of semantically related concepts that should…</p>
-            <div class="meta">Sep 02</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card light" data-id="2026-09-02-incremental-risk-assessment-of-progressive-elder-financial-s" data-href="https://arxiv.org/abs/2609.00005" data-title="Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models" data-source="" data-date="Sep 02, 2026" data-image="" tabindex="0" role="link">
-          <div class="body">
-            <h4 class="clamp">Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models</h4>
-            <p class="preview clamp">Financial scams targeting older adults increasingly occur through text and voice channels such as email, SMS, and phone calls, unfolding over multiple conversational turns that begin with impersonation or casual contact, escalate through trust building and…</p>
-            <div class="meta">Sep 02</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-02-introducing-huggingface-kernels-200-webgpu-kernels-for-local" data-href="https://huggingface.co/blog/webgpu-kernels" data-title="Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI" data-source="" data-date="Sep 02, 2026" data-image="https://huggingface.co/blog/assets/webgpu-kernels/thumbnail.png" tabindex="0" role="link">
-          <img class="banner" src="https://huggingface.co/blog/assets/webgpu-kernels/thumbnail.png" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</h4>
-            <p class="preview clamp">Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI One of our biggest goals on the WebAI team at Hugging Face is to make browser inference as fast and as user-friendly as possible. Getting there is a multi-layer effort: models need…</p>
-            <div class="meta">Sep 02</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card light" data-id="2026-09-02-long-horizon-state-tracking-in-llms-executing-md5-through-a-" data-href="https://arxiv.org/abs/2609.00012" data-title="Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls" data-source="" data-date="Sep 02, 2026" data-image="" tabindex="0" role="link">
-          <div class="body">
-            <h4 class="clamp">Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls</h4>
-            <p class="preview clamp">Long-horizon tasks remain uncommon in large language model (LLM) evaluation, and for a reason: when each step depends on the last, per-step accuracy that looks excellent in isolation decays catastrophically, as errors cascade and the end-to-end failure…</p>
-            <div class="meta">Sep 02</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-02-openai-s-astra-model-is-on-the-way-and-very-good-at-breaking" data-href="https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/" data-title="OpenAI’s Astra model is on the way — and very good at breaking into computer systems" data-source="" data-date="Sep 02, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">OpenAI’s Astra model is on the way — and very good at breaking into computer systems</h4>
-            <p class="preview clamp">OpenAI shared new details on its forthcoming Astra model, which the company said is the first large language model to meet its “critical cybersecurity threshold,” in preparation for its imminent release. “We plan to make Astra available soon,” OpenAI’s blog…</p>
-            <div class="meta">Sep 02</div>
           </div>
         </article>
       </div>

@@ -1,0 +1,19 @@
+---
+date: '2026-08-06'
+fetched: '2026-09-10'
+image: https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo
+preview: WeatherNext enables accurate cyclone forecasts that can give an extra day
+  of warning. Now we are open sourcing the model. Predicting how dangerous cyclones
+  develop is a longstanding challenge where every hour counts. Tropical cyclones —
+  also known as…
+published: '2026-08-06T15:06:15+00:00'
+source: DeepMind
+title: 'WeatherNext: AI model achieves breakthrough in forecasting cyclones'
+url: https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/
+---
+
+# WeatherNext: AI model achieves breakthrough in forecasting cyclones
+
+<p>WeatherNext enables accurate cyclone forecasts that can give an extra day of warning. Now we are open sourcing the model.</p><p>Predicting how dangerous cyclones develop is a longstanding challenge where every hour counts. Tropical cyclones — also known as hurricanes or typhoons — are among the most destructive weather phenomena on Earth, responsible for more than 700,000 deaths and $1.4 trillion in economic losses globally over the past 50 years. For forecasters, issuing timely, accurate warnings is a constant race against time.</p><p>Today, in a paper published in <a href="https://www.nature.com/articles/s41586-026-10953-2"><em>Nature</em></a>, we show that our WeatherNext AI model achieved state-of-the-art accuracy in predicting a cyclone&#x27;s track, intensity, and wind structure. On average, our model gives forecasters an extra day’s worth of predictive accuracy: our three-day forecasts are as good as what prior models were able to provide for only the next two days. This scale of improvement corresponds roughly to a decade’s worth of meteorological progress.</p><p>This collaborative work brought together AI researchers and engineers at Google DeepMind and Google Research, with expert forecasters at the <a href="https://www.nhc.noaa.gov/">National Hurricane Center</a> (NHC), the <a href="https://www.cira.colostate.edu/">Cooperative Institute for Research in the Atmosphere</a> (CIRA), the <a href="https://www.metoffice.gov.uk/">UK Met Office</a>, and weather agencies around the world.</p><p>Our research has already had real-world impact. During the 2025 hurricane season, our model helped the NHC to make a <a href="https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/">historic forecast for Hurricane Melissa</a> by predicting the storm’s rapid intensification and landfall in Jamaica. This enabled the NHC to issue an advance warning, giving teams on the ground critical time to prepare. This year, we continue to work together and are now predicting 1,000 possible scenarios for each cyclone to help support forecasters in their decision-making.</p><p>Weather affects everyone. Given this broad impact, we are now <a href="https://github.com/google-deepmind/weathernext">open sourcing</a> our WeatherNext 2 and WeatherNext Cyclones models used during the hurricane season. By making this technology openly available, we hope to empower the research community and amplify AI&#x27;s impact in building more resilient communities – whether that be providing local forecasters with the tools they need to <a href="https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/">prepare for natural disasters</a>, supporting the growth of renewable energy, or anticipating extreme weather.</p><h2>How WeatherNext predicts weather and cyclones</h2>
+
+[Read the full article →](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)

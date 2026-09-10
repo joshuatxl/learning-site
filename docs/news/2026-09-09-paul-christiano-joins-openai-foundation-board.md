@@ -1,0 +1,19 @@
+---
+date: '2026-09-09'
+fetched: '2026-09-10'
+image: https://images.ctfassets.net/kftzwdyauwt9/182NzFWut4sS5hBGtIVsq5/c2620026fe60121fe6543a992c7477ea/paul-christiano-joins-openai-foundation-board--seo-v001.png?w=1600&h=900&fit=fill
+preview: We’re announcing the appointment of Paul Christiano to the OpenAI Foundation
+  Board. He will be a non-voting observer on the OpenAI Group PBC Board. Paul will
+  also join the Safety and Security Committee (SSC) of the Foundation Board, working
+  alongside its…
+published: '2026-09-09T17:00:00+00:00'
+source: OpenAI
+title: Paul Christiano joins OpenAI Foundation Board
+url: https://openai.com/index/paul-christiano-joins-openai-foundation-board
+---
+
+# Paul Christiano joins OpenAI Foundation Board
+
+<p>We’re announcing the appointment of Paul Christiano to the OpenAI Foundation Board. He will be a non-voting observer on the OpenAI Group PBC Board.</p><p>Paul will also join the Safety and Security Committee (SSC) of the Foundation Board, working alongside its chair, Zico Kolter. The SSC provides governance over safety and security practices across all of OpenAI, including OpenAI Group PBC.</p><p>Paul brings government experience spanning two administrations through his work at the <a href="https://www.nist.gov/caisi">Center for AI Standards and Innovation⁠</a> (CAISI) within the National Institute of Standards and Technology (NIST), an agency of the U.S. Department of Commerce, where he is a Senior Tech Advisor<a href="https://openai.com/index/paul-christiano-joins-openai-foundation-board#citation-bottom-1">1</a>. During his time at CAISI and its predecessor, the U.S. AI Safety Institute, Paul has worked on evaluating frontier AI models, including capabilities with national security implications, and on approaches to mitigating associated safety and security risks.</p><p>Paul is also the founder of the <a href="https://www.alignment.org/">Alignment Research Center⁠</a> (ARC), a nonprofit research organization focused on aligning advanced AI systems with human interests. From 2017 to 2021, Paul led alignment research at OpenAI and contributed foundational work on reinforcement learning from human feedback (RLHF). In this new capacity, Paul brings a distinct and technically grounded perspective to OpenAI’s governance decisions. Our mission is to ensure that artificial general intelligence benefits all of humanity.</p><p>AI is entering a new era of capability, making it increasingly important that advances in these systems are accompanied by strong safety, security, alignment and governance. Throughout Paul’s career researching AI alignment, he brings a perspective that takes seriously the possibility that advanced AI could pose catastrophic risks and that developers must prepare before systems reach more dangerous levels of capability. He has been an independent voice on whether the industry’s safeguards are adequate. We believe the Foundation’s governance is stronger with people prepared to challenge prevailing assumptions and help strengthen the evidence, safeguards, and accountability underlying critical decisions.</p><h2>About the OpenAI Foundation</h2><p>The OpenAI Foundation is a charitable organization dedicated to ensuring AI benefits all of humanity. As a separate nonprofit organization, the Foundation conducts its own charitable operations while maintaining control of, and holding a <a href="https://openai.com/our-structure/">significant equity stake</a> in OpenAI Group PBC. The Foundation supports initiatives advancing scientific discovery, strengthening civil society, and building resilience through responsible AI. Through grants, partnerships, and other philanthropic initiatives, the Foundation helps accelerate work that creates lasting public benefit and expands access to AI’s transformative potential.</p>
+
+[Read the full article →](https://openai.com/index/paul-christiano-joins-openai-foundation-board)
