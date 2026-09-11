@@ -1,0 +1,20 @@
+---
+date: '2026-09-10'
+fetched: '2026-09-11'
+image: https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675
+preview: 'Let’s just get this out of the way: Mark Wahlberg is as A-list as it gets.
+  He broke out in 1997’s “Boogie Nights,” and in the nearly three decades since, he’s
+  built one of the highest-wattage careers in Hollywood: two Academy Award nominations,
+  a Golden Globe…'
+published: '2026-09-10T21:35:00+00:00'
+source: TechCrunch
+title: Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about
+  your work, not his
+url: https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/
+---
+
+# Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
+
+<p>Let’s just get this out of the way: Mark Wahlberg is as A-list as it gets. He broke out in 1997’s “Boogie Nights,” and in the nearly three decades since, he’s built one of the highest-wattage careers in Hollywood: two Academy Award nominations, a Golden Globe nod for “The Fighter,” multiple Emmy nominations as a producer (HBO’s “Entourage” among them), and a filmography that spans crime dramas, comedies, and action blockbusters. Right now, he’s back on-screen in “By Any Means,” a manhunt thriller set during the 1966 Mississippi civil rights killings.</p><h2>From Hollywood to business venture</h2><p>His acting career is really just part of the picture. Over the past two decades, Wahlberg has built a production company, a restaurant chain, apparel and fitness ventures, a slate of angel investments, and the now-25-year-old Mark Wahlberg Youth Foundation, which supports inner-city kids and teens. He’s used his Hollywood success to launch big projects well outside the movie business — <a href="https://techcrunch.com/events/techcrunch-disrupt/agenda/?utm_campaign=disrupt2026&amp;utm_content=speakerpost&amp;utm_medium=post&amp;utm_source=tc">and in a fireside chat at this year’s Disrupt, he’s going to give us a peek into how.</a></p><h2>Building an investing mindset</h2><p>Wahlberg, who’s leaned almost entirely on entrepreneurial instinct about people, culture, products, and markets, is now someone who’s been building institutional-level investing discipline, with Lee as his guide, and with a growing focus on healthcare and wellness startups. It’s a rare, unvarnished look at how someone with Wahlberg’s cultural intelligence has worked his way into some of the most sophisticated rooms in business and finance.</p><p>He also discusses where high-profile entertainers and athletes sometimes get it wrong (Wahlberg is candid about having had to unlearn some of his own old instincts); how he’s used the trust built over a massive career to drive access and deal flow; and which technologies he’s most focused on right now and why.</p><h2>Go inside Wahlberg’s playbook</h2><p>If you’ve watched Wahlberg build brands, franchises, and businesses over the past decade and wondered, “Who <em>is</em> this guy?,” you won’t want to miss this conversation. Mistakes, mentorship, the mechanics of leveling up in a competitive investing landscape — we’ll cover it all at Disrupt.</p><p>Join Wahlberg and Lee on the Disrupt Stage, alongside 250+ of tech’s top leaders across 200+ sessions covering what it takes to build a viable startup and shape the next generation of innovation. On October 13-15, 10,000+ tech leaders will converge at San Francisco’s Moscone West. Don’t miss your chance to change the trajectory of your startup. <strong><a href="https://techcrunch.com/events/techcrunch-disrupt/tickets/?utm_source=tc&amp;utm_medium=post&amp;utm_campaign=disrupt2026&amp;utm_content=speakerpost&amp;promo=&amp;display=">Grab your pass now and save up to $200</a></strong> before rates increase September 25.</p>
+
+[Read the full article →](https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/)
