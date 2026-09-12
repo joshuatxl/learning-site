@@ -1,0 +1,19 @@
+---
+date: '2026-09-11'
+fetched: '2026-09-12'
+image: https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798
+preview: An Anthropic researcher resigned this week, warning in a post on X that the
+  company is “racing straight to self-improving superintelligence and gambling with
+  our lives”. The company’s own alignment lead even co-signed the message rather than
+  walking it back…
+published: '2026-09-11T18:41:49+00:00'
+source: TechCrunch
+title: An Anthropic researcher’s doomsday warning comes at a very interesting time
+url: https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/
+---
+
+# An Anthropic researcher’s doomsday warning comes at a very interesting time
+
+<p>An Anthropic researcher resigned this week, <a href="https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/">warning in a post on X</a> that the company is “racing straight to self-improving superintelligence and gambling with our lives”. The company’s own alignment lead even <a href="https://x.com/EvanHub/status/2097497037956891126">co-signed the message</a> rather than walking it back. It’s the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently.</p><p>On this episode of TechCrunch’s<a href="https://techcrunch.com/podcasts/equity/"> Equity</a> podcast, hosts Kirsten Korosec, Anthony Ha, and Sean O’Kane dig into the latest AI safety warning and what it says about the industry’s race toward increasingly capable models. Plus, <a href="https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/">Apple’s first big event under new CEO John Ternus</a> and more of the week’s headlines.</p><p>Listen to the full episode to hear more about:</p><ul><li>Why Apple <a href="https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/">leaned hard into AI</a> at its hardware event, and how <a href="https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/">always-on features</a> baked into the Watch and AirPods may matter more than the splashy new foldable iPhone</li></ul><ul><li>How <a href="https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/">Stokes Space’s $1 billion raise</a> reflects a launch market that’s suddenly wide open now that SpaceX is winding down its Falcon rockets</li></ul><ul><li>Why investors poured <a href="https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/">$2 billion into coding startup Cognition</a> at a $48 billion valuation, and what it says about how much room VCs think is left in AI coding</li></ul><ul><li>A <a href="https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/">$50 million seed round for floating nuclear reactors</a> and the scramble to power AI data centers</li></ul><p>Subscribe to Equity on <a href="https://www.youtube.com/@TechCrunch">YouTube</a>,<a href="https://itunes.apple.com/us/podcast/id1215439780"> Apple Podcasts</a>,<a href="https://overcast.fm/itunes1215439780/equity"> Overcast</a>,<a href="https://open.spotify.com/show/5IEYLip3eDppcOmy5DmphC?si=rZDFHv2sQUul_g94iCRgpQ"> Spotify</a> and all the casts. You also can follow Equity on<a href="https://twitter.com/EquityPod"> X</a> and<a href="https://www.threads.net/@equitypod"> Threads</a>, at @EquityPod.</p>
+
+[Read the full article →](https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/)

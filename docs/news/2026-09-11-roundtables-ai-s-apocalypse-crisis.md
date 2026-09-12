@@ -1,0 +1,19 @@
+---
+date: '2026-09-11'
+fetched: '2026-09-12'
+image: https://wp.technologyreview.com/wp-content/uploads/2024/01/September.26_Roundtables-Assets.png?resize=1200,600
+preview: Employees at the world&#x27;s leading AI labs are saying there&#x27;s a real
+  possibility that advanced AI could destroy humanity. Are they right? Or is this
+  more scaremongering and hype? Join MIT Technology Review executive editor Niall
+  Firth for a…
+published: '2026-09-11T20:05:06+00:00'
+source: MIT Tech Review
+title: 'Roundtables: AI’s apocalypse crisis'
+url: https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/
+---
+
+# Roundtables: AI’s apocalypse crisis
+
+<p>Employees at the world&#x27;s leading AI labs are saying there&#x27;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction fears: where they come from, whether they hold any water, and, if so, what we should do.</p><p><strong>Speakers: </strong><a href="https://www.technologyreview.com/author/niall-firth/">Niall Firth</a>, executive editor, <a href="https://www.technologyreview.com/author/will-douglas-heaven/">Will Douglas Heaven</a>, senior AI editor, and <a href="https://www.technologyreview.com/author/grace-huckins/">Grace Huckins</a>, AI reporter</p><ul><li><a href="https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/">Here’s why AI agents lie and cheat to reach their goals</a></li><li><a href="https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/">AI’s recursive self-improvement might not come so quickly after all</a></li><li><a href="https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/">Bill Gates says we’ve passed AI’s danger thresholds. Now what?</a></li><li><a href="https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/">The inside story on why OpenAI agents hacked Hugging Face</a></li></ul><h3>Deep Dive</h3><h3>Artificial intelligence</h3><h3>A fundamental flaw leaves LLMs strikingly vulnerable to attack</h3><p>It makes it easy to trick them into doing things they shouldn’t, such as telling you how to sabotage an aircraft’s navigation system.</p><ul><li><a href="https://www.technologyreview.com/author/will-douglas-heaven/">Will Douglas Heavenarchive page</a></li></ul><h3>AI is more likely than humans to form biases when hiring</h3><p>AI doesn’t just learn stereotypes from its training. It can cook up new ones, too.</p><ul><li><a href="https://www.technologyreview.com/author/michelle-kim/">Michelle Kimarchive page</a></li></ul><h3>Here’s why AI agents lie and cheat to reach their goals</h3><p>The misbehavior is called reward hacking. This is what you need to know.</p><ul><li><a href="https://www.technologyreview.com/author/grace-huckins/">Grace Huckinsarchive page</a></li></ul><h3>AI’s recursive self-improvement might not come so quickly after all</h3><p><strong>AI agents are not yet creative enough to carry out genuinely innovative open-ended AI research, it seems.</strong></p><ul><li><a href="https://www.technologyreview.com/author/michelle-kim/">Michelle Kimarchive page</a></li></ul><h3>Stay connected</h3><h2>Get the latest updates from MIT Technology Review</h2><p>Discover special offers, top stories, upcoming events, and more.</p>
+
+[Read the full article →](https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/)
