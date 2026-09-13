@@ -10,7 +10,7 @@ hide:
   <span class="digest-glow"></span>
   <div class="wrap">
     <h1 class="digest-title">What&rsquo;s going on in AI?</h1>
-    <p class="refreshed">Last refreshed 12 Sep 2026 at 17:40 AWST</p>
+    <p class="refreshed">Last refreshed 13 Sep 2026 at 18:42 AWST</p>
   </div>
 </section>
 
@@ -19,7 +19,7 @@ hide:
   <section class="ai-brief" aria-label="Today in AI">
     <p class="ai-brief-kicker"><span class="ai-brief-dot"></span>Today in AI</p>
     
-    <div class="ai-brief-body"><p>Next-generation deployment is accelerating as OpenAI sees its GPT-6 Astra model integrated into autonomous systems. Perplexity uses Astra for system management, while Cognition relies on it to test code written by Devin. OpenAI is also scaling infrastructure for over one billion ChatGPT users. Meanwhile, Mecka AI nears a five hundred million dollar valuation led by Sequoia Capital, and Moonshot AI targets two billion dollars in revenue as Y Combinator CEO Garry Tan defends model distillation.</p><p>Simultaneously, rapid progress is escalating safety controversies. An Anthropic researcher resigned after warning the lab is recklessly chasing superintelligence, a message backed by their alignment lead. Furthermore, twenty-five Fields Medalists issued an open letter accusing AI labs of disrupting mathematical research, while U.K. startup Nscale appointed former OpenAI executive Fidji Simo to its board ahead of a potential public offering.</p></div>
+    <div class="ai-brief-body"><p>The central conversation in artificial intelligence today focuses on safety concerns, existential risk, and the pacing of technological development. Leaders across major labs are openly weighing the catastrophic potential of advanced systems, prompting broader industry roundtables hosted by MIT Technology Review on whether these existential fears represent genuine threats or overblown hype. In response to these warnings, the chief executive of Anthropic has outlined a detailed plan to slow down AI development, aligning with recent calls from other industry figures who suggest that pacing research is necessary to ensure safety.</p><p>At the same time, major developers are adjusting their corporate timelines. Despite OpenAI having filed confidentially for an initial public offering, chief executive Sam Altman revealed that going public in 2026 would be ill-advised for the company. Taken together, today&#x27;s news reflects a strategic shift among industry leaders toward caution, reevaluating commercial roadmaps alongside the safety of their frontier technologies.</p></div>
   </section>
   <!-- AI-DIGEST-END -->
 </div>
@@ -27,6 +27,40 @@ hide:
   <section class="level-section">
     <div class="wrap">
       <div class="section-head"><span class="section-dot"></span><h3>Today</h3><div class="rule"></div></div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-12-openai-s-sam-altman-says-it-would-be-ill-advised-to-go-publi" data-href="https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/" data-title="OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026" data-source="TechCrunch" data-date="Sep 12, 2026" data-image="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026</h4>
+            <p class="preview clamp">While OpenAI has filed confidentially for an IPO , the company will not be going public this year , according to CEO Sam Altman. Altman was interviewed recently by Fortune editor in chief Alyson Shontell; amidst the fallout from the OpenAI-HuggingFace hack…</p>
+            <div class="meta">TechCrunch · Sep 12</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-12-anthropic-ceo-outlines-plan-to-slow-ai-development" data-href="https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/" data-title="Anthropic CEO outlines plan to slow AI development" data-source="TechCrunch" data-date="Sep 12, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Anthropic CEO outlines plan to slow AI development</h4>
+            <p class="preview clamp">We’ve been seeing increasingly dire warnings from AI researchers about the dangers of artificial intelligence, and even comments from OpenAI CEO Sam Altman that it may be time to “pace” AI development. But what would that actually look like? In a new blog…</p>
+            <div class="meta">TechCrunch · Sep 12</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-11-roundtables-could-ai-really-kill-us-all" data-href="https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/" data-title="Roundtables: Could AI really kill us all?" data-source="MIT Tech Review" data-date="Sep 11, 2026" data-image="https://wp.technologyreview.com/wp-content/uploads/2024/01/September.26_Roundtables-Assets.png?resize=1200,600" tabindex="0" role="link">
+          <img class="banner" src="https://wp.technologyreview.com/wp-content/uploads/2024/01/September.26_Roundtables-Assets.png?resize=1200,600" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Roundtables: Could AI really kill us all?</h4>
+            <p class="preview clamp">Employees at the world&amp;#x27;s leading AI labs are saying there&amp;#x27;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a…</p>
+            <div class="meta">MIT Tech Review · Sep 11</div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="level-section">
+    <div class="wrap">
+      <div class="section-head"><span class="section-dot"></span><h3>Yesterday</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card light" data-id="2026-09-14-perplexity-trusts-gpt-6-astra-with-end-to-end-systems" data-href="https://openai.com/index/perplexity-improving-accuracy-with-astra" data-title="Perplexity trusts GPT-6 Astra with end-to-end systems" data-source="OpenAI" data-date="Sep 14, 2026" data-image="" tabindex="0" role="link">
           <div class="body">
@@ -139,7 +173,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>Yesterday</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>2 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-10-jensen-huang-explains-why-nvidia-will-grow-an-astounding-70" data-href="https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/" data-title="Jensen Huang explains why Nvidia will grow an astounding 70% next year" data-source="TechCrunch" data-date="Sep 10, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -323,7 +357,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>2 days ago</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>3 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-10-ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-roun" data-href="https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/" data-title="AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks" data-source="TechCrunch" data-date="Sep 10, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -555,7 +589,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>3 days ago</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>4 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-09-instacart-launches-an-ai-grocery-shopping-assistant-called-c" data-href="https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/" data-title="Instacart launches an AI grocery shopping assistant called Clementine" data-source="TechCrunch" data-date="Sep 09, 2026" data-image="https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -1399,7 +1433,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>4 days ago</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>5 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-08-opaque-recurrence-and-other-ai-terms-that-you-should-probabl" data-href="https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/" data-title="Opaque recurrence, and other AI terms that you should probably know" data-source="" data-date="Sep 08, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -1415,7 +1449,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>5 days ago</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>6 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-07-authors-push-back-as-publishers-and-agents-make-claims-on-an" data-href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/" data-title="Authors push back as publishers and agents make claims on Anthropic settlement" data-source="" data-date="Sep 07, 2026" data-image="https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -1439,7 +1473,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>6 days ago</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>7 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-06-fine-tuning-a-350m-model-for-better-structured-outputs-in-10" data-href="https://huggingface.co/blog/grpo-with-trl-ifstruct" data-title="Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps" data-source="" data-date="Sep 06, 2026" data-image="https://huggingface.co/blog/assets/grpo-with-trl-ifstruct/thumbnail.png" tabindex="0" role="link">
           <img class="banner" src="https://huggingface.co/blog/assets/grpo-with-trl-ifstruct/thumbnail.png" alt="" loading="lazy" onerror="this.style.display='none'">
