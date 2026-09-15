@@ -1,0 +1,20 @@
+---
+date: '2026-09-14'
+fetched: '2026-09-15'
+image: https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800
+preview: As the AI world shifts its focus to safety and alignment, Microsoft has released
+  a new AI code of conduct meant to guide AI models away from dangerous behavior.
+  The document is more low level than Anthropic CEO Dario Amodei’s recent call for
+  pacing the…
+published: '2026-09-14T16:27:53+00:00'
+source: TechCrunch
+title: Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick
+  humans
+url: https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/
+---
+
+# Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans
+
+<p>As the AI world shifts its focus to safety and alignment, Microsoft has released <a href="https://microsoft.ai/code-of-conduct/">a new AI code of conduct</a> meant to guide AI models away from dangerous behavior.</p><p>The document is more low level than <a href="https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/">Anthropic CEO Dario Amodei’s recent call for pacing the frontier</a>, instead focusing on the values and red lines that guide model training within Microsoft AI. Still, the result is a comprehensive guide as to how Microsoft approaches AI safety and how those ideas are implemented in practice.</p><p>The document begins with the prediction that, in the next decade, superintelligent AI systems will surpass human performance in most tasks. “Containing, controlling, and aligning such a powerful force is one of the greatest challenges humanity has ever faced,” the code of conduct states. “We must therefore be completely clear about why we are inventing these systems and how we intend to control them.”</p><p>The code of conduct also lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.</p><p>Under Microsoft’s system, each model has an overarching code of conduct that overrides the preferences of individual users or any specific tasks. That includes “absolute constraints” forbidding cyberattacks, nuclear weapons, or deepfake production. It also includes broader provisions against a general loss of human control.</p><p>“<em>MAI Models</em> will not use adaptive, deceptive, self-reinforcing, collusion, or other mechanisms to evade or defeat human oversight so that they can no longer be reliably directed, modified, or shut down by authorized people or systems,” the document reads.</p><p>The release comes amid an unprecedented focus on AI safety, driven by <a href="https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/">a string of rogue-agent incidents</a>, as well as the <a href="https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/">abrupt resignation of an Anthropic employee</a>, who cited the growing risk that AI would cause human extinction.</p><p>Together with Anthropic, OpenAI, and xAI, Microsoft has broadly embraced a general approach of pacing the frontier, with particular support for embedded evaluators in AI labs.</p><p>“We welcome the research, focus, and deliberate pacing needed to get alignment right as the design goal,” Microsoft CEO Satya Nadella <a href="https://x.com/satyanadella/status/2099289319102124449">wrote online</a>. “We also welcome ideas like ’embedded evaluators’ and the broader efforts to develop the mechanisms to make this more than just talk.”</p>
+
+[Read the full article →](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)
