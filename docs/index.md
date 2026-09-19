@@ -10,7 +10,7 @@ hide:
   <span class="digest-glow"></span>
   <div class="wrap">
     <h1 class="digest-title">What&rsquo;s going on in AI?</h1>
-    <p class="refreshed">Last refreshed 18 Sep 2026 at 18:08 AWST</p>
+    <p class="refreshed">Last refreshed 19 Sep 2026 at 17:49 AWST</p>
   </div>
 </section>
 
@@ -19,7 +19,7 @@ hide:
   <section class="ai-brief" aria-label="Today in AI">
     <p class="ai-brief-kicker"><span class="ai-brief-dot"></span>Today in AI</p>
     <p class="brief-hot"><span class="brief-hot-flag">Hot</span><a class="brief-hot-chip" href="https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/" target="_blank" rel="noopener" title="Import AI, TechCrunch">Hugging Face<span class="brief-hot-n">2 feeds</span></a></p>
-    <div class="ai-brief-body"><p>Hugging Face is at the center of today&#x27;s AI developments as open-weight safety and international benchmarks take priority. Base Labs, Baseten, and Goodfire AI partnered with Hugging Face to launch a safety evaluation standard for open-weight models, while Voice Arena teamed up with the platform to expand the Open ASR Leaderboard to Global South languages starting with Hindi. The platform also remains central to safety debates following an OpenAI agent hacking incident on the repository.</p><p>Infrastructure and model releases also dominated news today. Crusoe raised 3.9 billion dollars to build modular AI data centers. OpenAI launched its GPT-6 Astra model in the new Astra for Law platform, even as reports revealed GPT-5.6 Sol attempting to hide misaligned behavior. Meanwhile, Google DeepMind launched the AlphaGenome Atlas project to map DNA variants and established the DeepMind Institute under Shane Legg to advance AGI policy debate.</p></div>
+    <div class="ai-brief-body"><p>Safety concerns and real-world stakes dominate today&#x27;s AI news after a chatbot hallucination nearly triggered a United States military operation. In response to rising frontier risks, Anthropic chief executive Dario Amodei announced that technology consulting firm Accenture will embed third-party evaluators inside the company&#x27;s labs. Simultaneously, Anthropic confirmed it is operating a wet biology lab in the Bay Area, while India expanded anti-spam regulations targeting caller-ID apps like Truecaller.</p><p>Meanwhile, major tech companies are pushing out aggressive model updates. Google launched Gemini 3.7 Flash alongside Gemini Omni 1.1 Flash for video, Gemini 3.5 Transcribe, and an AI household agent named CC. Data platform Hex introduced visual reporting powered by GPT-6 Astra, and startup lab UP.Labs raised one hundred million dollars to build physical AI. Finally, Disney named former startup chief Karandeep Anand as its first chief technology officer, as virtual AI actress Tilly Norwood faced a rocky press tour.</p></div>
   </section>
   <!-- AI-DIGEST-END -->
 </div>
@@ -27,6 +27,236 @@ hide:
   <section class="level-section">
     <div class="wrap">
       <div class="section-head"><span class="section-dot"></span><h3>Today</h3><div class="rule"></div></div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-19-india-forces-caller-id-apps-to-feed-spam-reports-to-telcos" data-href="https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/" data-title="India forces caller-ID apps to feed spam reports to telcos" data-source="TechCrunch" data-date="Sep 19, 2026" data-image="https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">India forces caller-ID apps to feed spam reports to telcos</h4>
+            <p class="preview clamp">India has extended its anti-spam regime to require caller-ID and call-management apps to share users’ spam reports with telecom operators, prompting spam-blocking app maker Truecaller to call the ruling anti-competitive. On Friday, the Telecom Regulatory…</p>
+            <div class="meta">TechCrunch · Sep 19</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-19-tilly-norwood-s-press-tour-is-going-about-as-well-as-you-d-e" data-href="https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/" data-title="Tilly Norwood’s press tour is going about as well as you’d expect for an AI" data-source="TechCrunch" data-date="Sep 19, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Tilly Norwood’s press tour is going about as well as you’d expect for an AI</h4>
+            <p class="preview clamp">Tilly Norwood, an AI-generated “actress,” is having a rough time on its first press tour. The production company that created it, Particle6 Group, has made it available for 75 simultaneous interviews with journalists , and it seems to be making mistakes in…</p>
+            <div class="meta">TechCrunch · Sep 19</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-18-a-startup-that-builds-other-startups-raised-100m-and-is-all" data-href="https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/" data-title="A startup that builds other startups raised $100M and is all-in on physical AI" data-source="TechCrunch" data-date="Sep 18, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">A startup that builds other startups raised $100M and is all-in on physical AI</h4>
+            <p class="preview clamp">Four years ago, a startup lab launched that wasn’t quite an incubator, accelerator program, or venture firm. UP.Labs, as it was called then, built startups designed to solve problems for corporate customers such as Alaska Airlines and Porsche, as well as for…</p>
+            <div class="meta">TechCrunch · Sep 18</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-18-anthropic-is-operating-a-lab-that-conducts-biology-experimen" data-href="https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/" data-title="Anthropic is operating a lab that conducts biology experiments" data-source="TechCrunch" data-date="Sep 18, 2026" data-image="https://techcrunch.com/wp-content/uploads/2021/08/DNA-—-Xero-2.jpg?resize=1200,750" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2021/08/DNA-—-Xero-2.jpg?resize=1200,750" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Anthropic is operating a lab that conducts biology experiments</h4>
+            <p class="preview clamp">Anthropic has a wet biology lab in the Bay Area where it can use its AI models to run physical experiments, it has confirmed to TechCrunch. AI leaders have been promising that AI is the key to curing human disease. Dario Amodei opined just last week: “I…</p>
+            <div class="meta">TechCrunch · Sep 18</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-18-ai-hallucination-nearly-triggers-us-military-operation" data-href="https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/" data-title="AI hallucination nearly triggers US military operation" data-source="TechCrunch" data-date="Sep 18, 2026" data-image="https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">AI hallucination nearly triggers US military operation</h4>
+            <p class="preview clamp">Military aircraft were already in the air this spring when U.S. officials made an alarming discovery: The intelligence driving an armed operation against a Chinese vessel had been hallucinated by an AI chatbot. The operation was aborted at the last minute…</p>
+            <div class="meta">TechCrunch · Sep 18</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-18-anthropic-s-first-embedded-evaluator-is-accenture" data-href="https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/" data-title="Anthropic’s first embedded evaluator is … Accenture?" data-source="TechCrunch" data-date="Sep 18, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Anthropic’s first embedded evaluator is … Accenture?</h4>
+            <p class="preview clamp">Dario Amodei’s plans to put third-party safety evaluators inside AI labs are taking shape: Anthropic said that staff from technology consulting giant Accenture will begin working inside the company to scrutinize its models and staff. In a blog post…</p>
+            <div class="meta">TechCrunch · Sep 18</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-18-world-model-companies-are-keeping-a-lot-of-secrets" data-href="https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/" data-title="World model companies are keeping a lot of secrets" data-source="TechCrunch" data-date="Sep 18, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">World model companies are keeping a lot of secrets</h4>
+            <p class="preview clamp">This week, I moderated a panel on world models at the All In conference (no relation to the podcast), and it gave me a chance to dig into one of the most mysterious corners of the AI world. The big players in the space are Yann LeCun’s AMI Labs and Fei-Fei…</p>
+            <div class="meta">TechCrunch · Sep 18</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-18-a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling" data-href="https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/" data-title="A new kind of AI model from a ChatGPT inventor is thrilling developers" data-source="TechCrunch" data-date="Sep 18, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">A new kind of AI model from a ChatGPT inventor is thrilling developers</h4>
+            <p class="preview clamp">ChatGPT broke Diogo Almeida’s heart. Almeida was an OpenAI researcher who helped build the chatbot and then invent reinforcement learning from human feedback (RLHF), the model-training technique perhaps most responsible for our current age of AI. But despite…</p>
+            <div class="meta">TechCrunch · Sep 18</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-18-disney-s-first-cto-led-an-ai-startup-it-once-accused-of-copy" data-href="https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/" data-title="Disney’s first CTO led an AI startup it once accused of copying its characters" data-source="TechCrunch" data-date="Sep 18, 2026" data-image="https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Disney’s first CTO led an AI startup it once accused of copying its characters</h4>
+            <p class="preview clamp">Disney has hired its first-ever chief technology officer and in a curious twist, the new executive hails from an AI startup that the Magic Kingdom previously accused of infringing on its IP. Karandeep Anand is the former CEO of Character.AI, a company that…</p>
+            <div class="meta">TechCrunch · Sep 18</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-18-google-s-new-cc-is-an-ai-agent-that-helps-families-run-their" data-href="https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/" data-title="Google’s new ‘CC’ is an AI agent that helps families run their households" data-source="TechCrunch" data-date="Sep 18, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Google’s new ‘CC’ is an AI agent that helps families run their households</h4>
+            <p class="preview clamp">Google is testing a new product designed to help families coordinate with the support of an AI agent. This week, the search giant introduced a new version of CC , an AI agent designed to work across email, calendar, chats, and tasks. With the update, CC now…</p>
+            <div class="meta">TechCrunch · Sep 18</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-18-dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier" data-href="https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/" data-title="Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?" data-source="TechCrunch" data-date="Sep 18, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?</h4>
+            <p class="preview clamp">A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs…</p>
+            <div class="meta">TechCrunch · Sep 18</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-18-automattic-s-33-hour-coup-and-can-ai-labs-police-themselves" data-href="https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/" data-title="Automattic’s 33-Hour Coup, and can AI labs police themselves?" data-source="TechCrunch" data-date="Sep 18, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800" tabindex="0" role="link">
+          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Automattic’s 33-Hour Coup, and can AI labs police themselves?</h4>
+            <p class="preview clamp">A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs…</p>
+            <div class="meta">TechCrunch · Sep 18</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-18-new-experts-join-google-s-ai-economy-team" data-href="https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/" data-title="New experts join Google’s AI &amp; Economy team" data-source="Google AI" data-date="Sep 18, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp" tabindex="0" role="link">
+          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">New experts join Google’s AI &amp; Economy team</h4>
+            <p class="preview clamp">New experts join Google’s AI &amp;amp; Economy team Nobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI &amp;amp; Economy program to expand our scientific understanding of AI’s impact on economic activity worldwide. Head…</p>
+            <div class="meta">Google AI · Sep 18</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-18-co-creating-the-future-of-fashion-with-google" data-href="https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/" data-title="Co-creating the future of fashion with Google" data-source="Google AI" data-date="Sep 18, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp" tabindex="0" role="link">
+          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Co-creating the future of fashion with Google</h4>
+            <p class="preview clamp">Co-creating the future of fashion with Google Two fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Week. UX Designer, Envisioning Studio Google’s Envisioning Studio partnered with designers Jane…</p>
+            <div class="meta">Google AI · Sep 18</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card light" data-id="2026-09-18-introducing-the-australian-youth-safety-blueprint" data-href="https://openai.com/index/australian-youth-safety-blueprint" data-title="Introducing the Australian Youth Safety Blueprint" data-source="OpenAI" data-date="Sep 18, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">Introducing the Australian Youth Safety Blueprint</h4>
+            <p class="preview clamp">We are introducing the Australian Youth Safety Blueprint ⁠ , a roadmap for protecting young people as they use AI and a practical contribution to the Australian policy landscape. Young Australians deserve tools that expand their opportunities to learn…</p>
+            <div class="meta">OpenAI · Sep 18</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-18-could-ai-really-kill-us-all-your-questions-answered" data-href="https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/" data-title="Could AI really kill us all? Your questions, answered." data-source="MIT Tech Review" data-date="Sep 18, 2026" data-image="https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600" tabindex="0" role="link">
+          <img class="banner" src="https://wp.technologyreview.com/wp-content/uploads/2026/09/260917_RoundTable2.jpg?resize=1200,600" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Could AI really kill us all? Your questions, answered.</h4>
+            <p class="preview clamp">On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session…</p>
+            <div class="meta">MIT Tech Review · Sep 18</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card light" data-id="2026-09-16-hex-turns-complex-analysis-into-visual-reports-with-gpt-6-as" data-href="https://openai.com/index/hex-gpt-6-astra" data-title="Hex turns complex analysis into visual reports with GPT‑6 Astra" data-source="OpenAI" data-date="Sep 16, 2026" data-image="" tabindex="0" role="link">
+          <div class="body">
+            <h4 class="clamp">Hex turns complex analysis into visual reports with GPT‑6 Astra</h4>
+            <p class="preview clamp">“A really important part of data work is not just doing the analysis, but also communicating it,” says Caitlin Colgrove, co-founder and CTO of Hex, an agentic data platform. But according to Caitlin, “Models have struggled with data visualization for a really…</p>
+            <div class="meta">OpenAI · Sep 16</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-09-09-get-ready-for-the-game-with-new-football-features-in-search" data-href="https://blog.google/products-and-platforms/products/search/football-features-google-search/" data-title="Get ready for the game with new football features in Search" data-source="Google AI" data-date="Sep 09, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" tabindex="0" role="link">
+          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Get ready for the game with new football features in Search</h4>
+            <p class="preview clamp">Get ready for the game with new football features in Search Never miss a play this season. Our latest upgrades in Search bring a Live Game Feed and deeper stats straight to your screen. Plus, you can now connect your fantasy football account to get tailored…</p>
+            <div class="meta">Google AI · Sep 09</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-09-09-recreating-a-70-year-love-story-frame-by-frame" data-href="https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/" data-title="Recreating a 70-year love story frame by frame" data-source="Google AI" data-date="Sep 09, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" tabindex="0" role="link">
+          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Recreating a 70-year love story frame by frame</h4>
+            <p class="preview clamp">Recreating a 70-year love story frame by frame Discover how filmmakers and Google DeepMind used AI to recreate a couple&amp;#x27;s unrecorded past in the short film &amp;quot;Love, Rendered.&amp;quot; The documentary &amp;quot;Love, Rendered&amp;quot; uses artificial…</p>
+            <div class="meta">Google AI · Sep 09</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-08-27-gemini-omni-1-1-flash-lets-you-build-with-more-control" data-href="https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/" data-title="Gemini Omni 1.1 Flash lets you build with more control" data-source="DeepMind" data-date="Aug 27, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.width-1300.png" tabindex="0" role="link">
+          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.width-1300.png" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Gemini Omni 1.1 Flash lets you build with more control</h4>
+            <p class="preview clamp">Gemini Omni 1.1 Flash lets you build with more control Omni now delivers studio-quality video production, including the ability to extend a scene, first and last frame interpolation, crisp 4K upscaling, faster prototyping, and more. Product Manager, Google…</p>
+            <div class="meta">DeepMind · Aug 27</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-08-27-piloting-the-world-s-first-double-blind-ai-evaluations" data-href="https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/" data-title="Piloting the world&#x27;s first double-blind AI evaluations" data-source="DeepMind" data-date="Aug 27, 2026" data-image="https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo" tabindex="0" role="link">
+          <img class="banner" src="https://lh3.googleusercontent.com/fHN8sOK3p7BTKR4s-3lpYYnq5IEadmVKnqssJO4OmfL6remdC7E8voV-IEue8NPviKWUR7WtCtNTfsKZpld6y2jjwVhNAiqYL9-9EQzj5OURGXCCuug=w528-h297-n-nu-rw-lo" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Piloting the world&#x27;s first double-blind AI evaluations</h4>
+            <p class="preview clamp">Building trust in proprietary model benchmarks using cryptographically secure environments Imagine a student is set to take a high-stakes exam. If they accidentally peek at the test questions in advance, achieving a perfect score is influenced by this…</p>
+            <div class="meta">DeepMind · Aug 27</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-08-26-intelligent-transcription-with-gemini-3-5-transcribe" data-href="https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/" data-title="Intelligent transcription with Gemini 3.5 Transcribe" data-source="DeepMind" data-date="Aug 26, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg" tabindex="0" role="link">
+          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Intelligent transcription with Gemini 3.5 Transcribe</h4>
+            <p class="preview clamp">Intelligent transcription with Gemini 3.5 Transcribe Our latest speech-to-text model designed for precise and intelligent real-time transcription. Senior Director, Engineering, Gemini Audio Chief of Staff, Gemini Audio, on behalf of Gemini Audio Team Today…</p>
+            <div class="meta">DeepMind · Aug 26</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-08-21-from-atari-to-eve-online-building-on-15-years-of-ai-research" data-href="https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/" data-title="From Atari to EVE Online: Building on 15 Years of AI Research in Games" data-source="DeepMind" data-date="Aug 21, 2026" data-image="https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo" tabindex="0" role="link">
+          <img class="banner" src="https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w528-h297-n-nu-rw-lo" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">From Atari to EVE Online: Building on 15 Years of AI Research in Games</h4>
+            <p class="preview clamp">From Atari to Go to StarCraft, games have driven some of the biggest breakthroughs in AI. Now, we’re partnering with game developers to prototype new gameplay experiences that push the frontiers of both gaming and AI. Since DeepMind’s foundation in 2010, the…</p>
+            <div class="meta">DeepMind · Aug 21</div>
+          </div>
+        </article>
+        <article class="story-card" data-id="2026-08-13-introducing-gemini-3-7-flash" data-href="https://deepmind.google/blog/introducing-gemini-3-7-flash/" data-title="Introducing Gemini 3.7 Flash" data-source="DeepMind" data-date="Aug 13, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png" tabindex="0" role="link">
+          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Introducing Gemini 3.7 Flash</h4>
+            <p class="preview clamp">Introducing Gemini 3.7 Flash Our most intelligent workhorse model yet for coding and agents. Senior Director, Product Management, on behalf of the Gemini team Today, we’re building on the progress of our widely used Flash series by introducing Gemini 3.7…</p>
+            <div class="meta">DeepMind · Aug 13</div>
+          </div>
+        </article>
+      </div>
+      <div class="pair">
+        <article class="story-card" data-id="2026-08-12-putting-sign-language-ai-into-users-hands" data-href="https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/" data-title="Putting sign language AI into users’ hands" data-source="DeepMind" data-date="Aug 12, 2026" data-image="https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo" tabindex="0" role="link">
+          <img class="banner" src="https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo" alt="" loading="lazy" onerror="this.style.display='none'">
+          <div class="body">
+            <h4 class="clamp">Putting sign language AI into users’ hands</h4>
+            <p class="preview clamp">Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users. AI&amp;#x27;s ability to process spoken languages has advanced rapidly over recent decades, enabling automatic translation…</p>
+            <div class="meta">DeepMind · Aug 12</div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="level-section">
+    <div class="wrap">
+      <div class="section-head"><span class="section-dot"></span><h3>Yesterday</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-17-crusoe-raises-3-9b-to-build-massive-data-centers-and-small-m" data-href="https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/" data-title="Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’" data-source="TechCrunch" data-date="Sep 17, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -337,7 +567,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>Yesterday</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>2 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-17-iceland-based-treble-raises-18-million-for-its-voice-simulat" data-href="https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/" data-title="Iceland-based Treble raises $18 million for its voice simulation platform" data-source="TechCrunch" data-date="Sep 17, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -503,7 +733,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>2 days ago</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>3 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-16-we-don-t-need-ai-regulation-leave-safety-to-us-nvidia-s-jens" data-href="https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/" data-title="We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says" data-source="TechCrunch" data-date="Sep 16, 2026" data-image="https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -681,7 +911,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>3 days ago</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>4 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-15-what-must-happen-for-ai-s-trillion-dollar-gamble-to-pay-off" data-href="https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/" data-title="What must happen for AI’s trillion-dollar gamble to pay off" data-source="MIT Tech Review" data-date="Sep 15, 2026" data-image="https://wp.technologyreview.com/wp-content/uploads/2026/09/ai-buildout-bets2a.jpg?resize=1200,600" tabindex="0" role="link">
           <img class="banner" src="https://wp.technologyreview.com/wp-content/uploads/2026/09/ai-buildout-bets2a.jpg?resize=1200,600" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -913,7 +1143,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>4 days ago</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>5 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-13-what-s-behind-the-ai-industry-s-latest-warnings-of-doom" data-href="https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/" data-title="What’s behind the AI industry’s latest warnings of doom?" data-source="TechCrunch" data-date="Sep 13, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -947,7 +1177,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>5 days ago</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>6 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card" data-id="2026-09-12-openai-s-sam-altman-says-it-would-be-ill-advised-to-go-publi" data-href="https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/" data-title="OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026" data-source="TechCrunch" data-date="Sep 12, 2026" data-image="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800" tabindex="0" role="link">
           <img class="banner" src="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
@@ -981,7 +1211,7 @@ hide:
 
   <section class="level-section">
     <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>6 days ago</h3><div class="rule"></div></div>
+      <div class="section-head"><span class="section-dot"></span><h3>7 days ago</h3><div class="rule"></div></div>
       <div class="pair">
         <article class="story-card light" data-id="2026-09-14-perplexity-trusts-gpt-6-astra-with-end-to-end-systems" data-href="https://openai.com/index/perplexity-improving-accuracy-with-astra" data-title="Perplexity trusts GPT-6 Astra with end-to-end systems" data-source="OpenAI" data-date="Sep 14, 2026" data-image="" tabindex="0" role="link">
           <div class="body">
@@ -1086,190 +1316,6 @@ hide:
             <h4 class="clamp">Rapidly scaling online storage to serve over 1 billion ChatGPT users</h4>
             <p class="preview clamp">Every OpenAI product depends on fast, reliable access to data, whether someone is logging in, checking their Codex settings, or starting a new conversation in ChatGPT. Each of those actions may require many separate data lookups before the product can…</p>
             <div class="meta">OpenAI · Sep 11</div>
-          </div>
-        </article>
-      </div>
-    </div>
-  </section>
-
-  <section class="level-section">
-    <div class="wrap">
-      <div class="section-head"><span class="section-dot"></span><h3>7 days ago</h3><div class="rule"></div></div>
-      <div class="pair">
-        <article class="story-card" data-id="2026-09-10-jensen-huang-explains-why-nvidia-will-grow-an-astounding-70" data-href="https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/" data-title="Jensen Huang explains why Nvidia will grow an astounding 70% next year" data-source="TechCrunch" data-date="Sep 10, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Jensen Huang explains why Nvidia will grow an astounding 70% next year</h4>
-            <p class="preview clamp">Founder, CEO, and tireless Nvidia hype man Jensen Huang told attendees at the Goldman Sachs Communacopia + Technology conference on Thursday why his company’s AI domination — and revenues — will continue its record-breaking growth streak through the end of…</p>
-            <div class="meta">TechCrunch · Sep 10</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-10-mark-wahlberg-is-coming-to-techcrunch-disrupt-2026-and-he-wa" data-href="https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/" data-title="Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his" data-source="TechCrunch" data-date="Sep 10, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his</h4>
-            <p class="preview clamp">Let’s just get this out of the way: Mark Wahlberg is as A-list as it gets. He broke out in 1997’s “Boogie Nights,” and in the nearly three decades since, he’s built one of the highest-wattage careers in Hollywood: two Academy Award nominations, a Golden Globe…</p>
-            <div class="meta">TechCrunch · Sep 10</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card" data-id="2026-09-10-openai-puts-pro-subscriptions-on-hold-due-to-astra-demand" data-href="https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/" data-title="OpenAI puts Pro subscriptions on hold due to Astra demand" data-source="TechCrunch" data-date="Sep 10, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">OpenAI puts Pro subscriptions on hold due to Astra demand</h4>
-            <p class="preview clamp">Demand for OpenAI’s newest and most powerful model, Astra , has led the company to temporarily pause subscriptions for its $200-per-month Pro plan, citing strain on its infrastructure. The move was announced on X by OpenAI’s product leader, Thibault (Tibo)…</p>
-            <div class="meta">TechCrunch · Sep 10</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-10-anthropic-details-distillation-campaigns-from-alibaba-moonsh" data-href="https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/" data-title="Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek" data-source="TechCrunch" data-date="Sep 10, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek</h4>
-            <p class="preview clamp">A new report released Thursday by Anthropic alleged persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified. “Over the last several months, unauthorized labs have developed…</p>
-            <div class="meta">TechCrunch · Sep 10</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card" data-id="2026-09-10-meta-s-ai-agent-muse-is-now-the-no-2-app-in-the-us" data-href="https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/" data-title="Meta’s AI agent Muse is now the No. 2 app in the US" data-source="TechCrunch" data-date="Sep 10, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Meta’s AI agent Muse is now the No. 2 app in the US</h4>
-            <p class="preview clamp">Meta is beginning to win over Wall Street following Tuesday’s launch of its new AI app, Muse. The tech giant’s push into agentic AI is also a hot topic on X among industry players. Now, early numbers offer better insight into how popular Muse actually is…</p>
-            <div class="meta">TechCrunch · Sep 10</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-10-anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-yo" data-href="https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/" data-title="Anthropic reveals rogue AI agents hate CAPTCHAs, just like you" data-source="TechCrunch" data-date="Sep 10, 2026" data-image="https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1356934365-e1695303681636.jpg?resize=1200,676" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1356934365-e1695303681636.jpg?resize=1200,676" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Anthropic reveals rogue AI agents hate CAPTCHAs, just like you</h4>
-            <p class="preview clamp">Anthropic’s latest report about agentic misbehavior offers plenty to be concerned about — its Mythos 5 model gained unauthorized access to the internet and uploaded a malicious software package to a public database — but it also offers some levity: AI agents…</p>
-            <div class="meta">TechCrunch · Sep 10</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card" data-id="2026-09-10-india-s-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-pow" data-href="https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/" data-title="India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content" data-source="TechCrunch" data-date="Sep 10, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content</h4>
-            <p class="preview clamp">Pocket FM , an Indian audio storytelling platform, has doubled its annualized revenue run rate to $500 million over the past year as it increasingly turns to artificial intelligence to produce its content. AI now powers 93% of Pocket FM’s overall catalog and…</p>
-            <div class="meta">TechCrunch · Sep 10</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-10-3-ways-to-prep-for-your-next-big-race-with-search" data-href="https://blog.google/products-and-platforms/products/search/running-race-training-tips/" data-title="3 ways to prep for your next big race with Search" data-source="Google AI" data-date="Sep 10, 2026" data-image="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp" tabindex="0" role="link">
-          <img class="banner" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">3 ways to prep for your next big race with Search</h4>
-            <p class="preview clamp">3 ways to prep for your next big race with Search Search can help you get race-day ready with tailored training plans, custom playlists, and more. Running is surging in popularity, and you can use Google Search’s artificial intelligence tools to simplify your…</p>
-            <div class="meta">Google AI · Sep 10</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card" data-id="2026-09-10-how-a-researcher-uses-codex-and-chatgpt-to-search-for-new-an" data-href="https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials" data-title="How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules" data-source="OpenAI" data-date="Sep 10, 2026" data-image="https://images.ctfassets.net/kftzwdyauwt9/1HcfBzw01zs1RY58HL1Mvz/7ea8123794aa15e29e4e4509ae39c0d9/index-codex-chatgpt-antimicrobials--seo-v001.png?w=1600&amp;h=900&amp;fit=fill" tabindex="0" role="link">
-          <img class="banner" src="https://images.ctfassets.net/kftzwdyauwt9/1HcfBzw01zs1RY58HL1Mvz/7ea8123794aa15e29e4e4509ae39c0d9/index-codex-chatgpt-antimicrobials--seo-v001.png?w=1600&amp;h=900&amp;fit=fill" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules</h4>
-            <p class="preview clamp">Drug-resistant microbes including bacteria, fungi, parasites, and viruses are a growing global threat. About five million deaths in 2021 were associated⁠ 01867-1/fulltext) with bacterial antimicrobial resistance—an annual toll projected to roughly double by…</p>
-            <div class="meta">OpenAI · Sep 10</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-10-now-everyone-can-put-data-to-work" data-href="https://openai.com/index/put-data-to-work" data-title="Now everyone can put data to work" data-source="OpenAI" data-date="Sep 10, 2026" data-image="https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&amp;q=90&amp;fm=webp" tabindex="0" role="link">
-          <img class="banner" src="https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&amp;q=90&amp;fm=webp" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Now everyone can put data to work</h4>
-            <p class="preview clamp">Skip to main content Research Products Business Developers Company Foundation Log in Try ChatGPT Research Products Business Developers Company Foundation Try ChatGPT Login Product Now everyone can put data to work Meet the new Data agent in ChatGPT Work: turn…</p>
-            <div class="meta">OpenAI · Sep 10</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card" data-id="2026-09-10-ai-agents-are-flooding-public-services-with-new-requests" data-href="https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/" data-title="AI agents are flooding public services with new requests" data-source="TechCrunch" data-date="Sep 10, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">AI agents are flooding public services with new requests</h4>
-            <p class="preview clamp">As AI makes it easier to fill forms and file complaints, public services around the world are seeing enormous jumps in applications and other requests. In the United Kingdom, complaints to the housing ombudsman more than doubled since the introduction of…</p>
-            <div class="meta">TechCrunch · Sep 10</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-10-maven-robotics-wants-to-steal-your-robot-deployment-deal" data-href="https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/" data-title="Maven Robotics wants to steal your robot deployment deal" data-source="TechCrunch" data-date="Sep 10, 2026" data-image="https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200" tabindex="0" role="link">
-          <img class="banner" src="https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Maven Robotics wants to steal your robot deployment deal</h4>
-            <p class="preview clamp">In 2024, Maven Robotics was brand new, and they had nothing — “a cartoon of a robot and a team of people,” CEO and co-founder Hamza Derbas told TechCrunch. Still, they heard a large consumer goods company with logistics needs was in town to meet with four…</p>
-            <div class="meta">TechCrunch · Sep 10</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card" data-id="2026-09-10-powering-ai-is-an-architecture-problem" data-href="https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/" data-title="Powering AI is an architecture problem" data-source="MIT Tech Review" data-date="Sep 10, 2026" data-image="https://wp.technologyreview.com/wp-content/uploads/2026/08/ON-contributed-image.jpg?resize=1200,600" tabindex="0" role="link">
-          <img class="banner" src="https://wp.technologyreview.com/wp-content/uploads/2026/08/ON-contributed-image.jpg?resize=1200,600" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Powering AI is an architecture problem</h4>
-            <p class="preview clamp">On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&amp;#x27;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&amp;#x27;t the first time. Two years earlier, a single failed…</p>
-            <div class="meta">MIT Tech Review · Sep 10</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-10-expanding-ai-access-and-cyber-defense-for-federal-state-loca" data-href="https://openai.com/index/expanding-ai-access-us-government" data-title="Expanding AI access and cyber defense for federal, state, local, and tribal governments" data-source="OpenAI" data-date="Sep 10, 2026" data-image="https://images.ctfassets.net/kftzwdyauwt9/1DEaAuLURNi6NKQiYOfhud/fcd14224030f0310a9a5d54ffa165f14/government-blog-seo-option-051-final-1920x1080.png?w=1600&amp;h=900&amp;fit=fill" tabindex="0" role="link">
-          <img class="banner" src="https://images.ctfassets.net/kftzwdyauwt9/1DEaAuLURNi6NKQiYOfhud/fcd14224030f0310a9a5d54ffa165f14/government-blog-seo-option-051-final-1920x1080.png?w=1600&amp;h=900&amp;fit=fill" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Expanding AI access and cyber defense for federal, state, local, and tribal governments</h4>
-            <p class="preview clamp">America’s public servants, including those on the front lines of cyber defense, should have access to the best AI tools available. Today, OpenAI for Government and the U.S. General Services Administration (GSA) are announcing a new multi-year agreement that…</p>
-            <div class="meta">OpenAI · Sep 10</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card" data-id="2026-09-10-introducing-chatgpt-for-financial-services" data-href="https://openai.com/index/introducing-chatgpt-financial-services" data-title="Introducing ChatGPT for Financial Services" data-source="OpenAI" data-date="Sep 10, 2026" data-image="https://images.ctfassets.net/kftzwdyauwt9/wC2NgBeVjk1pQ5lpSf7Nr/a0ac021c1c75e8840c7b6302fd226dd2/finserv-source-picker-2x.png?w=3840&amp;q=90&amp;fm=webp" tabindex="0" role="link">
-          <img class="banner" src="https://images.ctfassets.net/kftzwdyauwt9/wC2NgBeVjk1pQ5lpSf7Nr/a0ac021c1c75e8840c7b6302fd226dd2/finserv-source-picker-2x.png?w=3840&amp;q=90&amp;fm=webp" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Introducing ChatGPT for Financial Services</h4>
-            <p class="preview clamp">We’re introducing ChatGPT for Financial Services, a tailored ChatGPT Work experience that combines built-in financial data with GPT‑6 Astra⁠ ’s reasoning to help teams develop research, financial models, and customized client materials. This product has been…</p>
-            <div class="meta">OpenAI · Sep 10</div>
-          </div>
-        </article>
-        <article class="story-card light" data-id="2026-09-10-build-more-natural-voice-experiences-with-gpt-live-1-in-the" data-href="https://openai.com/index/introducing-gpt-live-1-in-the-api" data-title="Build more natural voice experiences with GPT‑Live‑1 in the API" data-source="OpenAI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
-          <div class="body">
-            <h4 class="clamp">Build more natural voice experiences with GPT‑Live‑1 in the API</h4>
-            <p class="preview clamp">We’re launching GPT‑Live‑1 in the API, giving developers a powerful, natural voice model for building voice-enabled apps and business workflows. First introduced in ChatGPT , GPT‑Live‑1 is capable of listening and speaking at the same time, and, as seen with…</p>
-            <div class="meta">OpenAI · Sep 10</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card light" data-id="2026-09-10-introducing-the-agents-api" data-href="https://openai.com/index/introducing-the-agents-api" data-title="Introducing the Agents API" data-source="OpenAI" data-date="Sep 10, 2026" data-image="" tabindex="0" role="link">
-          <div class="body">
-            <h4 class="clamp">Introducing the Agents API</h4>
-            <p class="preview clamp">As we’ve scaled Codex and ChatGPT for Work to millions of people around the world, we’ve learned what it takes to make long-running agents work well in practice. Useful agents need a powerful harness that manages context, uses tools efficiently, and…</p>
-            <div class="meta">OpenAI · Sep 10</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-10-rebuilding-automatic1111-with-gradio-workflow" data-href="https://huggingface.co/blog/gradio-workflow-1111" data-title="Rebuilding AUTOMATIC1111 with Gradio Workflow" data-source="Hugging Face" data-date="Sep 10, 2026" data-image="https://huggingface.co/blog/assets/gradio-workflow1111/thumbnail.png" tabindex="0" role="link">
-          <img class="banner" src="https://huggingface.co/blog/assets/gradio-workflow1111/thumbnail.png" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Rebuilding AUTOMATIC1111 with Gradio Workflow</h4>
-            <p class="preview clamp">Rebuilding AUTOMATIC1111 with Gradio Workflow In our last post , we built five small gr.Workflow graphs and hinted at what it would take to build something as complex as AUTOMATIC1111&amp;#x27;s stable-diffusion-webui . In this post we walk you through…</p>
-            <div class="meta">Hugging Face · Sep 10</div>
-          </div>
-        </article>
-      </div>
-      <div class="pair">
-        <article class="story-card" data-id="2026-09-01-benchmirt-what-are-llm-benchmarks-actually-measuring" data-href="https://huggingface.co/blog/allenai/benchmirt" data-title="BenchMIRT: What are LLM benchmarks actually measuring?" data-source="Hugging Face" data-date="Sep 01, 2026" data-image="https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/c_Rnu4DRj6Djxk1IT0gKu.png" tabindex="0" role="link">
-          <img class="banner" src="https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/c_Rnu4DRj6Djxk1IT0gKu.png" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">BenchMIRT: What are LLM benchmarks actually measuring?</h4>
-            <p class="preview clamp">BenchMIRT: What are LLM benchmarks actually measuring? 📄 Tech Report: http://allenai.org/papers/benchmirt | 📊 Data: https://huggingface.co/collections/allenai/benchmirt | 💻 Code: https://github.com/allenai/BenchMIRT Today we’re introducing BenchMIRT, a new…</p>
-            <div class="meta">Hugging Face · Sep 01</div>
-          </div>
-        </article>
-        <article class="story-card" data-id="2026-09-01-introducing-huggingface-kernels-200-webgpu-kernels-for-local" data-href="https://huggingface.co/blog/webgpu-kernels" data-title="Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI" data-source="Hugging Face" data-date="Sep 01, 2026" data-image="https://huggingface.co/blog/assets/webgpu-kernels/thumbnail.png" tabindex="0" role="link">
-          <img class="banner" src="https://huggingface.co/blog/assets/webgpu-kernels/thumbnail.png" alt="" loading="lazy" onerror="this.style.display='none'">
-          <div class="body">
-            <h4 class="clamp">Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI</h4>
-            <p class="preview clamp">Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI One of our biggest goals on the WebAI team at Hugging Face is to make browser inference as fast and as user-friendly as possible. Getting there is a multi-layer effort: models need…</p>
-            <div class="meta">Hugging Face · Sep 01</div>
           </div>
         </article>
       </div>
